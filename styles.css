@@ -233,13 +233,15 @@ a:hover { text-decoration: underline; }
 
 .inline-carousel {
   position: relative;
+  overflow: hidden; /* clip viewport; must NOT be on .inline-track or translateX blanks later slides */
   touch-action: pan-y;
   user-select: none;
 }
 .inline-track {
   display: flex;
-  overflow: hidden;
   width: 100%;
+  transition: transform .28s ease;
+  will-change: transform;
 }
 .slide {
   flex: 0 0 100%;
