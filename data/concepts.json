@@ -22,7 +22,8 @@
           "#f5e6d3",
           "#dce8f5"
         ],
-        "hook": "改變唔係靠動力，係靠睇清楚你最唔想變成嘅人。"
+        "hook": "改變唔係靠動力，係靠睇清楚你最唔想變成嘅人。",
+        "image": "img/anti-vision.webp"
       },
       "slides": [
         {
@@ -77,7 +78,8 @@
           "#e8f0e6",
           "#d4e4f0"
         ],
-        "hook": "優化計劃感覺好似進步——但其實可能係拖延嘅高級形態。"
+        "hook": "優化計劃感覺好似進步——但其實可能係拖延嘅高級形態。",
+        "image": "img/upgrade-loop.webp"
       },
       "slides": [
         {
@@ -133,7 +135,8 @@
           "#f0e8f5",
           "#e6f0ea"
         ],
-        "hook": "健身房練肌肉；寫作練清晰思考同可轉移嘅認知。"
+        "hook": "健身房練肌肉；寫作練清晰思考同可轉移嘅認知。",
+        "image": "img/writing-gym.webp"
       },
       "slides": [
         {
@@ -187,7 +190,8 @@
           "#e6eef8",
           "#f5efe6"
         ],
-        "hook": "當平台開始幫網站「劃價取用」，內容經濟嘅閘口正在重設。"
+        "hook": "當平台開始幫網站「劃價取用」，內容經濟嘅閘口正在重設。",
+        "image": "img/monetization.webp"
       },
       "slides": [
         {
@@ -242,7 +246,8 @@
           "#e8f2ea",
           "#f5e8e6"
         ],
-        "hook": "對結果低期望，唔等於對努力低標準。"
+        "hook": "對結果低期望，唔等於對努力低標準。",
+        "image": "img/expectations.webp"
       },
       "slides": [
         {
@@ -297,7 +302,8 @@
           "#e6eaf5",
           "#f0ebe3"
         ],
-        "hook": "錢會花；認知資本——清楚寫低嘅模型——會越用越利。"
+        "hook": "錢會花；認知資本——清楚寫低嘅模型——會越用越利。",
+        "image": "img/cognitive-capital.webp"
       },
       "slides": [
         {

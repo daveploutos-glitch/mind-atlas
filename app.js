@@ -114,6 +114,71 @@
     return `background: linear-gradient(145deg, ${g[0]} 0%, ${g[1]} 100%);`;
   }
 
+  function hasCoverImage(c) {
+    return Boolean(c.cover?.image);
+  }
+
+  function coverImgSrc(c) {
+    return c.cover?.image || "";
+  }
+
+  /** Build HTML for a slide (feed or modal). Photo on cover-type when image exists. */
+  function buildSlideInner(c, s, extrasHtml) {
+    const usePhoto = s.type === "cover" && hasCoverImage(c);
+    const emoji = escapeHtml(c.cover?.emoji || "💡");
+    const typeLabel = escapeHtml(TYPE_LABEL[s.type] || s.type);
+    const title = escapeHtml(s.title || c.title);
+    const body = escapeHtml(s.body || "");
+    const extras = extrasHtml || "";
+    if (usePhoto) {
+      return {
+        className: "slide slide-photo",
+        style: "",
+        html: `
+        <img class="slide-bg" src="${escapeHtml(coverImgSrc(c))}" alt="" loading="lazy" decoding="async" />
+        <div class="slide-scrim" aria-hidden="true"></div>
+        <div class="slide-inner">
+          <span class="slide-emoji-badge" aria-hidden="true">${emoji}</span>
+          <div class="slide-type">${typeLabel}</div>
+          <h3>${title}</h3>
+          <p>${body}</p>
+          ${extras}
+        </div>`,
+      };
+    }
+    return {
+      className: "slide",
+      style: gradientStyle(c),
+      html: `
+        <div class="slide-emoji">${emoji}</div>
+        <div class="slide-type">${typeLabel}</div>
+        <h3>${title}</h3>
+        <p>${body}</p>
+        ${extras}`,
+    };
+  }
+
+  function buildLibCoverHtml(c) {
+    const emoji = escapeHtml(c.cover?.emoji || "💡");
+    const title = escapeHtml(c.title);
+    if (hasCoverImage(c)) {
+      return `
+        <div class="cover cover-photo">
+          <img class="cover-bg" src="${escapeHtml(coverImgSrc(c))}" alt="" loading="lazy" decoding="async" />
+          <div class="cover-scrim" aria-hidden="true"></div>
+          <div class="cover-inner">
+            <span class="em-badge" aria-hidden="true">${emoji}</span>
+            <h3>${title}</h3>
+          </div>
+        </div>`;
+    }
+    return `
+        <div class="cover" style="${gradientStyle(c)}">
+          <div class="em">${emoji}</div>
+          <h3>${title}</h3>
+        </div>`;
+  }
+
   function conceptSearchBlob(c) {
     const slides = (c.slides || []).map((s) => `${s.title} ${s.body}`).join(" ");
     return [c.title, c.subtitle, c.domain, ...(c.tags || []), slides, c.cover?.hook]
@@ -224,21 +289,17 @@
 
     const track = $(".inline-track", wrap);
     slides.forEach((s, i) => {
+      const extras = `
+          <div class="slide-actions">
+            <button type="button" class="car-mini" data-dir="-1" ${i === 0 && idx === 0 ? "disabled" : ""} aria-label="上一張">‹</button>
+            <div class="dots-inline">${slides.map((_, di) => `<span class="dot ${di === idx ? "on" : ""}"></span>`).join("")}</div>
+            <button type="button" class="car-mini" data-dir="1" aria-label="下一張">›</button>
+          </div>`;
+      const built = buildSlideInner(c, s, extras);
       const slide = document.createElement("div");
-      slide.className = "slide";
-      slide.style.cssText = gradientStyle(c);
-      slide.innerHTML = `
-        <div class="slide-emoji">${escapeHtml(c.cover?.emoji || "💡")}</div>
-        <div class="slide-type">${escapeHtml(TYPE_LABEL[s.type] || s.type)}</div>
-        <h3>${escapeHtml(s.title || c.title)}</h3>
-        <p>${escapeHtml(s.body || "")}</p>
-        <div class="slide-actions">
-          <button type="button" class="car-mini" data-dir="-1" ${i === 0 && idx === 0 ? "disabled" : ""} aria-label="上一張">‹</button>
-          <div class="dots-inline">${slides.map((_, di) => `<span class="dot ${di === idx ? "on" : ""}"></span>`).join("")}</div>
-          <button type="button" class="car-mini" data-dir="1" aria-label="下一張">›</button>
-        </div>
-      `;
-      // only show correct nav disabled state after we know idx — rebuild below
+      slide.className = built.className;
+      if (built.style) slide.style.cssText = built.style;
+      slide.innerHTML = built.html;
       track.appendChild(slide);
     });
 
@@ -410,10 +471,7 @@
       btn.type = "button";
       btn.className = "lib-card";
       btn.innerHTML = `
-        <div class="cover" style="${gradientStyle(c)}">
-          <div class="em">${escapeHtml(c.cover?.emoji || "💡")}</div>
-          <h3>${escapeHtml(c.title)}</h3>
-        </div>
+        ${buildLibCoverHtml(c)}
         <div class="body">
           <p class="sub">${escapeHtml(c.subtitle || c.cover?.hook || "")}</p>
           <div class="row">
@@ -515,10 +573,7 @@
         btn.type = "button";
         btn.className = "lib-card";
         btn.innerHTML = `
-          <div class="cover" style="${gradientStyle(c)}">
-            <div class="em">${escapeHtml(c.cover?.emoji || "💡")}</div>
-            <h3>${escapeHtml(c.title)}</h3>
-          </div>
+          ${buildLibCoverHtml(c)}
           <div class="body">
             <p class="sub">${escapeHtml(c.subtitle || "")}</p>
             <div class="row"><span class="dom">${escapeHtml(c.domain)}</span></div>
@@ -607,15 +662,11 @@
     const track = $("#carousel-track");
     track.innerHTML = "";
     (c.slides || []).forEach((s) => {
+      const built = buildSlideInner(c, s, "");
       const slide = document.createElement("div");
-      slide.className = "slide";
-      slide.style.cssText = gradientStyle(c);
-      slide.innerHTML = `
-        <div class="slide-emoji">${escapeHtml(c.cover?.emoji || "💡")}</div>
-        <div class="slide-type">${escapeHtml(TYPE_LABEL[s.type] || s.type)}</div>
-        <h3>${escapeHtml(s.title || c.title)}</h3>
-        <p>${escapeHtml(s.body || "")}</p>
-      `;
+      slide.className = built.className;
+      if (built.style) slide.style.cssText = built.style;
+      slide.innerHTML = built.html;
       track.appendChild(slide);
     });
 
