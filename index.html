@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#1f4e79" />
+  <meta name="description" content="認知圖鑑 Mind Atlas — Chi Wai 個人認知學習平台" />
+  <title>認知圖鑑 · Mind Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="wrap" id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="tag">PERSONAL COGNITION</div>
+        <h1>認知圖鑑</h1>
+        <div class="sub" id="brand-sub">Mind Atlas · 載入中…</div>
+      </div>
+      <div class="meta-pills">
+        <span class="pill" id="pill-count">—</span>
+        <span class="pill soft" id="pill-date">—</span>
+      </div>
+    </header>
+
+    <nav class="nav" aria-label="主要分區">
+      <button type="button" class="active" data-section="sec-feed">今日</button>
+      <button type="button" data-section="sec-library">圖鑑</button>
+      <button type="button" data-section="sec-map">地圖</button>
+      <button type="button" data-section="sec-review">複習</button>
+      <button type="button" data-section="sec-archive">歷程</button>
+    </nav>
+
+    <!-- FEED -->
+    <section id="sec-feed" class="section active">
+      <div class="panel head-panel">
+        <div class="panel-head">
+          <h2 id="feed-title">今日 Feed</h2>
+          <span class="hint" id="feed-hint">—</span>
+        </div>
+        <p class="lead" id="feed-summary"></p>
+      </div>
+      <div id="feed-list" class="story-stack"></div>
+      <div id="feed-empty" class="empty hidden">
+        <div class="empty-emoji">☕</div>
+        <p>今日未有新卡呢。<br>去「圖鑑」翻吓舊概念，或者睇吓「歷程」。</p>
+      </div>
+    </section>
+
+    <!-- LIBRARY -->
+    <section id="sec-library" class="section">
+      <div class="panel">
+        <div class="panel-head">
+          <h2>圖鑑 Library</h2>
+          <span class="hint" id="lib-count">—</span>
+        </div>
+        <input type="search" id="search" class="search" placeholder="搜標題、副標、標籤、內容…" autocomplete="off" />
+        <div class="chip-row" id="domain-chips"></div>
+        <div class="chip-row tags" id="tag-chips"></div>
+      </div>
+      <div id="lib-grid" class="card-grid"></div>
+      <div id="lib-empty" class="empty hidden">
+        <div class="empty-emoji">🔍</div>
+        <p>搵唔到相關概念。<br>試下清篩選，或者換個關鍵字。</p>
+      </div>
+    </section>
+
+    <!-- MAP -->
+    <section id="sec-map" class="section">
+      <div class="panel head-panel">
+        <div class="panel-head">
+          <h2>主題地圖</h2>
+          <span class="hint">按領域瀏覽</span>
+        </div>
+        <p class="lead">撳某個領域，會跳去圖鑑並套用篩選。</p>
+      </div>
+      <div id="map-grid" class="map-grid"></div>
+    </section>
+
+    <!-- REVIEW -->
+    <section id="sec-review" class="section">
+      <div class="panel">
+        <div class="panel-head"><h2>未答今日問題</h2><span class="hint">問你 · 待回覆</span></div>
+        <div id="review-questions" class="list-stack"></div>
+        <div id="review-q-empty" class="empty soft hidden">
+          <p>冇未答問題——做得好，或者今日未開過問答卡。</p>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h2>收藏</h2><span class="hint">本機書籤</span></div>
+        <div id="review-bookmarks" class="card-grid compact"></div>
+        <div id="review-bm-empty" class="empty soft hidden">
+          <p>未有收藏。喺卡片撳 ♥ 就可以收埋。</p>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h2>最近睇過</h2><span class="hint">本機會話</span></div>
+        <div id="review-recent" class="list-stack"></div>
+        <div id="review-recent-empty" class="empty soft hidden">
+          <p>未有瀏覽紀錄。去 Feed 或者圖鑑打開一張卡啦。</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ARCHIVE -->
+    <section id="sec-archive" class="section">
+      <div class="panel head-panel">
+        <div class="panel-head">
+          <h2>歷程 Archive</h2>
+          <span class="hint">按日回顧</span>
+        </div>
+      </div>
+      <div id="archive-list" class="archive-list"></div>
+      <div id="archive-empty" class="empty hidden">
+        <div class="empty-emoji">📅</div>
+        <p>未有每日簡報紀錄。</p>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div id="footer-meta">認知圖鑑 · Mind Atlas</div>
+      <button type="button" class="linkish" id="upd-btn" title="檢查更新">檢查更新</button>
+    </footer>
+  </div>
+
+  <!-- Modal carousel -->
+  <div id="modal" class="modal" hidden aria-modal="true" role="dialog">
+    <div class="modal-backdrop" data-close="1"></div>
+    <div class="modal-sheet" role="document">
+      <div class="modal-top">
+        <button type="button" class="icon-btn" id="modal-close" aria-label="關閉">✕</button>
+        <div class="modal-title-wrap">
+          <div class="modal-kicker" id="modal-kicker"></div>
+          <div class="modal-title" id="modal-title"></div>
+        </div>
+        <button type="button" class="icon-btn heart" id="modal-bookmark" aria-label="收藏">♡</button>
+      </div>
+      <div class="carousel" id="carousel">
+        <div class="carousel-track" id="carousel-track"></div>
+        <button type="button" class="car-nav prev" id="car-prev" aria-label="上一張">‹</button>
+        <button type="button" class="car-nav next" id="car-next" aria-label="下一張">›</button>
+      </div>
+      <div class="dots" id="carousel-dots"></div>
+      <div class="modal-foot" id="modal-foot"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" role="status"></div>
+</body>
+</html>

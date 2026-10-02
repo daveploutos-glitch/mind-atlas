@@ -1,0 +1,335 @@
+{
+  "concepts": [
+    {
+      "id": "2026-09-29-anti-vision",
+      "date": "2026-09-29",
+      "title": "一日重設人生",
+      "subtitle": "反願景 · 日間打斷 · 夜晚合成",
+      "domain": "思維模型",
+      "tags": [
+        "反願景",
+        "人生設計",
+        "身份",
+        "自我反思"
+      ],
+      "source": {
+        "label": "Dan Koe · How to Change Your Entire Life in 1 Day",
+        "url": "https://letters.thedankoe.com/p/how-to-change-your-entire-life-in-1"
+      },
+      "cover": {
+        "emoji": "🌅",
+        "gradient": [
+          "#f5e6d3",
+          "#dce8f5"
+        ],
+        "hook": "改變唔係靠動力，係靠睇清楚你最唔想變成嘅人。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "一日重設人生",
+          "body": "Dan Koe 提出：你唔需要三十年先改命。用一日，畫清「反願景」，再打斷舊劇本、夜晚合成新身份。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "願景太抽象就會飄；反願景（anti-vision）先最有力——清楚寫出你最恐懼變成嘅生活、性格同結局。恐懼畫邊界，邊界產生方向。日間用小打斷打破自動導航；夜晚用寫作／反思把碎片合成成新劇本。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "反願景示例：「十年後仍然朝九晚五抱怨、身體走下坡、冇作品、成日話『遲啲先開始』。」日間打斷：每次滑手機前問「呢下係咪喺餵養個反願景？」夜晚合成：寫一頁——今日邊啲行為靠近／遠離反願景，聽日改一條。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫 10 分鐘反願景：最唔想要嘅一日／十年。再寫 3 條「絕對唔做」同 1 條今晚可完成嘅正向行動。睡前用 5 分鐘合成：今日有冇餵養反願景？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若果你繼續而家呢套劇本十年，你最驚變成邊種人？邊一個日常小習慣最喺餵養呢個結局？"
+        }
+      ],
+      "related": [
+        "2026-09-30-upgrade-loop",
+        "2026-10-01-writing-gym"
+      ]
+    },
+    {
+      "id": "2026-09-30-upgrade-loop",
+      "date": "2026-09-30",
+      "title": "Upgrade Loop",
+      "subtitle": "點解你成日升級計劃而唔執行",
+      "domain": "習慣決策",
+      "tags": [
+        "執行",
+        "習慣",
+        "自我欺騙"
+      ],
+      "source": {
+        "label": "Koldan · The Upgrade Loop",
+        "url": "https://koldan15.substack.com/p/the-upgrade-loop-why-you-keep-improving"
+      },
+      "cover": {
+        "emoji": "🔁",
+        "gradient": [
+          "#e8f0e6",
+          "#d4e4f0"
+        ],
+        "hook": "優化計劃感覺好似進步——但其實可能係拖延嘅高級形態。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Upgrade Loop",
+          "body": "你唔係懶，你係困喺「升級循環」：永遠喺度改工具、改系統、改計劃——就係唔開始做。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Upgrade Loop = 用「準備／優化」代替「暴露於現實反饋」。大腦鍾意可控、整潔、充滿希望嘅計劃；執行會帶來尷尬同失敗風險。所以你不斷升級系統，用進步感麻醉自己，同時避開真正嘅工作。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "想健身 → 花兩週比較 App、買鞋、排程表 → 第一堂都未上。想寫作 → 換筆記軟件、建資料庫、改模板 → 一篇都未發。每次「升級」都畀多巴胺，令你覺得自己好認真——但其實零輸出。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "凍結升級 7 日。選一個你一直優化緊嘅領域，用而家手上最爛但可用嘅工具，完成一個最小可見產出（1 組訓練／200 字／一通電話）。完成之後先准自己改系統。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "過去兩週你花最多時間「升級」嘅係邊樣嘢？若果禁止再改計劃，你今日唯一要交付嘅最小產出係咩？"
+        }
+      ],
+      "related": [
+        "2026-09-29-anti-vision",
+        "2026-10-02-low-expectations"
+      ]
+    },
+    {
+      "id": "2026-10-01-writing-gym",
+      "date": "2026-10-01",
+      "title": "寫作改腦",
+      "subtitle": "Writing as cognitive gym",
+      "domain": "牛人觀點",
+      "tags": [
+        "寫作",
+        "認知資本",
+        "自我反思",
+        "注意力"
+      ],
+      "source": {
+        "label": "Dan Koe · Writing as cognitive gym (thread)",
+        "url": "https://threadnavigator.com/thread/2077513202527773093/"
+      },
+      "cover": {
+        "emoji": "✍️",
+        "gradient": [
+          "#f0e8f5",
+          "#e6f0ea"
+        ],
+        "hook": "健身房練肌肉；寫作練清晰思考同可轉移嘅認知。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "寫作改腦",
+          "body": "寫作唔只係表達——佢係認知健身房。每次你把模糊感覺逼成清楚句子，大腦就完成一次負重訓練。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "思考喺腦裏面係一團霧；寫出來先變成可檢查、可修正、可複用嘅結構。公開寫作再加一層：讀者壓力逼你刪走自我欺騙。長期累積嘅筆記同文章＝認知資本，複利增長。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "讀完一篇文章覺得「好有道理」——三日後忘記晒。若果強迫自己用 5 句寫出：問題、機制、反例、對我意味、下一步——你記住同用到嘅機會大好多。認知圖鑑本身就係呢種健身房。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選今日一個概念，寫「5 句卡」：①一句問題 ②機制 ③一個反例 ④對我意味 ⑤明日可做嘅一步。唔求漂亮，求清楚。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近邊個想法一直喺腦裏面轉但未寫低？若果逼自己用 200 字解釋畀一個朋友聽，邊度會最先卡住？"
+        }
+      ],
+      "related": [
+        "2026-10-02-cognitive-capital",
+        "2026-09-29-anti-vision"
+      ]
+    },
+    {
+      "id": "2026-10-01-cf-monetization",
+      "date": "2026-10-01",
+      "title": "Monetization Gateway",
+      "subtitle": "Cloudflare 變現閘道 · 商機掃描",
+      "domain": "商機趨勢",
+      "tags": [
+        "變現",
+        "注意力"
+      ],
+      "source": {
+        "label": "Cloudflare Monetization Gateway (announcement context)",
+        "url": "https://blog.cloudflare.com/"
+      },
+      "cover": {
+        "emoji": "🚪",
+        "gradient": [
+          "#e6eef8",
+          "#f5efe6"
+        ],
+        "hook": "當平台開始幫網站「劃價取用」，內容經濟嘅閘口正在重設。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Monetization Gateway",
+          "body": "Cloudflare 方向：幫網站／API 對 AI 爬蟲同流量做授權同計費。重點唔係單一產品名，而係「取用要過閘、過閘要付錢」嘅趨勢。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "互聯網早期預設「公開可抓」。AI 訓練同代理瀏覽令內容／數據變成燃料。閘道思維：擁有者定義誰可讀、用咩條件、點計價。對創作者同中小站長，呢個可能係新收入層；對建設者，係新整合位。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "新聞站唔再只靠廣告，而對 AI 公司賣「可訓練授權」。工具站對 agent 流量設 rate + billing。個人知識庫（如你嘅公開筆記）將來都可能分層：免費摘要 vs 付費全文／API。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "列出你擁有／可產出嘅 3 類「可閘內容」（文章、數據、工具輸出）。每類寫一句：邊個會想付費取用？你願意公開邊層、鎖邊層？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若果 AI agent 明日大量來讀你公開嘅嘢，你最想收錢嘅係邊一層價值？你而家有冇任何「閘」？"
+        }
+      ],
+      "related": [
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
+      "id": "2026-10-02-low-expectations",
+      "date": "2026-10-02",
+      "title": "低期望分裂",
+      "subtitle": "Low expectations split · 可控 vs 唔可控",
+      "domain": "思維模型",
+      "tags": [
+        "期望",
+        "控制",
+        "習慣",
+        "自我反思"
+      ],
+      "source": {
+        "label": "Sahil Bloom · Are Low Expectations the Key to Life?",
+        "url": "https://sahilbloom.substack.com/p/are-low-expectations-the-key-to-life"
+      },
+      "cover": {
+        "emoji": "⚖️",
+        "gradient": [
+          "#e8f2ea",
+          "#f5e8e6"
+        ],
+        "hook": "對結果低期望，唔等於對努力低標準。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "低期望分裂",
+          "body": "Sahil Bloom 觸及一個常見誤解：低期望＝躺平。真正有用嘅係分裂——對你控制唔到嘅結果放低執念；對你控制得到嘅過程堅持高標準。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "幸福常來自「現實 − 期望」。但若果你連努力嘅期望都放低，就會滑向無力感。更好模型：結果（市場、別人評價、運氣）→ 低執念；輸入（今日練習、睡眠、發送、複習）→ 高標準。分開兩者，焦慮下降、行動力上升。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "發文章：唔執著「一定爆」——低期望於結果；但堅持「每週發一篇、改到清楚」——高標準於過程。健身：唔執著「兩週見腹肌」；但堅持「每週訓練次數同蛋白質」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "畫兩欄。左：我控制唔到（寫 3 項，旁註「放低執念」）。右：我控制到（寫 3 項，旁註今日具體數字／時間）。只考核右欄。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你而家最焦慮嘅一件事，有幾多％其實喺可控欄？若果只考核可控輸入一週，你會點改今日行程？"
+        }
+      ],
+      "related": [
+        "2026-09-30-upgrade-loop",
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
+      "id": "2026-10-02-cognitive-capital",
+      "date": "2026-10-02",
+      "title": "認知資本",
+      "subtitle": "把每日洞見變成可複利嘅資產",
+      "domain": "思維模型",
+      "tags": [
+        "認知資本",
+        "寫作",
+        "習慣"
+      ],
+      "source": {
+        "label": "Chi Wai · Mind Atlas framing",
+        "url": ""
+      },
+      "cover": {
+        "emoji": "🏦",
+        "gradient": [
+          "#e6eaf5",
+          "#f0ebe3"
+        ],
+        "hook": "錢會花；認知資本——清楚寫低嘅模型——會越用越利。"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "認知資本",
+          "body": "每次你捕獲一個概念、寫成可複習嘅卡片，就係存一筆認知資本。本圖鑑就係你嘅戶口。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "認知資本＝可提取、可組合、可教人嘅心智模型庫。關鍵唔係收藏連結，而係：有封面鉤子、有核心機制、有例子、有行動、有問題。缺任一環，複利就斷。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "「Upgrade Loop」存入後，下次你又想換筆記軟件，可以翻呢張卡問自己：呢下係升級定逃避執行？模型被重用一次，資本就生息一次。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "從今日 Feed 揀一張卡，用自己嘅說話重寫「核心」一段（唔抄原文）。存低——呢個改寫步驟先係入帳。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你過去一個月學過但完全用唔出嘅概念有幾多個？邊一個值得今日正式「入帳」成為圖鑑卡片？"
+        }
+      ],
+      "related": [
+        "2026-10-01-writing-gym",
+        "2026-09-29-anti-vision"
+      ]
+    }
+  ]
+}

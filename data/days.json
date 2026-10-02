@@ -1,0 +1,28 @@
+{
+  "days": [
+    {
+      "date": "2026-10-02",
+      "title": "期望分裂 × 認知資本",
+      "summary": "低期望唔等於躺平；分清楚可控同唔可控。再加：認知資本先係長期資產。",
+      "conceptIds": ["2026-10-02-low-expectations", "2026-10-02-cognitive-capital"]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "寫作改腦 × Monetization Gateway",
+      "summary": "寫作係認知健身房。另：Cloudflare Monetization Gateway 作為商機掃描。",
+      "conceptIds": ["2026-10-01-writing-gym", "2026-10-01-cf-monetization"]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Upgrade Loop",
+      "summary": "點解你成日升級計劃而唔執行——識破自我欺騙嘅升級循環。",
+      "conceptIds": ["2026-09-30-upgrade-loop"]
+    },
+    {
+      "date": "2026-09-29",
+      "title": "一日重設人生",
+      "summary": "Dan Koe 反願景框架：用恐懼畫出邊界，再用日間打斷同夜晚合成重設方向。",
+      "conceptIds": ["2026-09-29-anti-vision"]
+    }
+  ]
+}
