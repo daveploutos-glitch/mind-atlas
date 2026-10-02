@@ -799,7 +799,12 @@
       const cur = state.version?.version;
       if (cur && j.version && j.version !== cur) {
         toast("發現新版本，重新整理…");
-        setTimeout(() => location.reload(), 600);
+        setTimeout(() => {
+          // Bust HTML/asset cache so styles.css?v=… / app.js?v=… actually refetch
+          const u = new URL(location.href);
+          u.searchParams.set("_v", j.version);
+          location.replace(u.toString());
+        }, 600);
         return;
       }
       if (manual) toast("已係最新版本");
