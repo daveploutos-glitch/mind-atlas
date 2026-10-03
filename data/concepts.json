@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-03-traffic-jam",
+      "date": "2026-10-03",
+      "title": "塞車理論",
+      "subtitle": "Traffic Jam Theory · Braess' Paradox",
+      "domain": "思維模型",
+      "tags": [
+        "競爭",
+        "塞車",
+        "長路",
+        "AI"
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Traffic Jam Theory of Success",
+        "url": "https://sahilbloom.substack.com/p/the-traffic-jam-theory-of-success"
+      },
+      "cover": {
+        "emoji": "🛣️",
+        "gradient": [
+          "#f0ebe3",
+          "#dce6f0"
+        ],
+        "hook": "人人衝入最快嘅捷徑，捷徑就變最慢；突圍往往係沉悶但複雜嘅長路。",
+        "image": "img/traffic-jam.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "塞車理論",
+          "body": "Sahil Bloom 借交通塞車講成功：加一條捷徑，成個網可以反而更塞（Braess' Paradox, 1968）。AI 而家是幾乎免費嘅萬能捷徑——人人一齊衝，輸出就失去信號。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "加一條捷徑，成個網可以反而更塞（Braess' Paradox）。人人衝入「最快嘅條」，快線就變慢線。AI 而家是幾乎免費嘅萬能捷徑；捷徑變擁擠之後，輸出本身失去信號。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Charlie Songhurst 2×2：性感+簡單（競爭密、回報薄）、性感+複雜（精英搶）、沉悶+簡單（唔值錢）、沉悶+複雜（競爭少、回報高）。突圍要留在或走進沉悶+複雜。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今個星期花 10 分鐘寫 3 個「沉悶但做錯好貴」嘅時刻（銀行工作以外）：邊個重複做？出錯代價係時間、錢定信任？Excel / WhatsApp / 人手頂唔頂得順？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "未來 3–5 年衝被動收入，你最容易想跳入「性感快線」嘅係邊種誘惑？如果被迫擇一條「沉悶但複雜」嘅長路，你直覺會擇邊個領域？"
+        }
+      ],
+      "related": [
+        "2026-10-03-micro-saas",
+        "2026-10-02-low-expectations",
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
+      "id": "2026-10-03-micro-saas",
+      "date": "2026-10-03",
+      "title": "Micro-SaaS 昂貴瞬間",
+      "subtitle": "贏嘅唔係有 AI，係擁有核實／批准／收款／存證",
+      "domain": "商機趨勢",
+      "tags": [
+        "變現",
+        "AI",
+        "競爭"
+      ],
+      "source": {
+        "label": "Mean CEO · Micro-SaaS trends October 2026",
+        "url": "https://blog.mean.ceo/micro-saas-trends-october-2026/"
+      },
+      "cover": {
+        "emoji": "🔏",
+        "gradient": [
+          "#f0ebe6",
+          "#e6eaf5"
+        ],
+        "hook": "Feature 好平；workflow 權限、信任同分發先貴。",
+        "image": "img/micro-saas.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Micro-SaaS 昂貴瞬間",
+          "body": "Micro-SaaS 贏嘅唔係「有 AI 嘅 SaaS」，而係擁有一個昂貴嘅業務瞬間：核實、批准、收款、存證。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "AI 令 feature 幾乎免費——誰都可以加聊天框、摘要、自動填表。真正值錢嘅係卡喺業務流程入面、做錯好貴嘅瞬間：核實身份、批准放行、收款結算、存證留痕。擁有呢個瞬間，先有定價權。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "同樣係「有 AI」：一個 chatbot 包裝 vs 一個幫會計師核對發票、鎖批准權限、再觸發收款嘅 workflow。前者擠滿性感快線；後者賣嘅係信任同責任鏈——沉悶，但客戶肯付。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "揀一個你熟悉嘅行業流程，寫出 3 個「做錯好貴」嘅閘口（核實／批准／收款／存證）。每個閘口問：而家邊個工具／人喺度？你可唔可以成為嗰個閘？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若果你明日做一個 Micro-SaaS，你會擁有邊一個昂貴瞬間？仲係只係再加多一個 AI feature？"
+        }
+      ],
+      "related": [
+        "2026-10-03-traffic-jam",
+        "2026-10-01-cf-monetization",
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
       "id": "2026-09-29-anti-vision",
       "date": "2026-09-29",
       "title": "一日重設人生",
