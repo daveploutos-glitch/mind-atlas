@@ -1,6 +1,15 @@
 {
   "days": [
     {
+      "date": "2026-10-04",
+      "title": "自我提升的 Bitter Lesson × Stress wood",
+      "summary": "Scaffold 最終輸俾一般方法加規模；七日前只守 base。另：Biosphere 2 的樹缺 stress wood——細風先長大，颶風只會折斷。",
+      "conceptIds": [
+        "2026-10-04-bitter-lesson",
+        "2026-10-04-stress-wood"
+      ]
+    },
+    {
       "date": "2026-10-03",
       "title": "塞車理論 × Micro-SaaS 昂貴瞬間",
       "summary": "捷徑變擁擠就失去信號；突圍走沉悶+複雜。另：Micro-SaaS 贏喺核實／批准／收款／存證，唔係再加 AI feature。",

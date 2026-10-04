@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-04-bitter-lesson",
+      "date": "2026-10-04",
+      "title": "自我提升的 Bitter Lesson",
+      "subtitle": "一般方法 + 規模，終會贏過人手規則",
+      "domain": "思維模型",
+      "tags": [
+        "基底",
+        "系統",
+        "一致性",
+        "行動"
+      ],
+      "source": {
+        "label": "Kevin Zhu · The Bitter Lesson of Self-Improvement",
+        "url": "https://kevinzhu.ai/writing/bitter-lesson.html"
+      },
+      "cover": {
+        "emoji": "🌱",
+        "gradient": [
+          "#f3efe6",
+          "#d7e3d4"
+        ],
+        "hook": "Scaffold 最終輸俾一般方法加規模；問題可能在 base，唔係再加一層系統。",
+        "image": "img/bitter-lesson.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "自我提升的 Bitter Lesson",
+          "body": "Kevin Zhu 借 Rich Sutton 嘅 Bitter Lesson：靠人手聰明設計的規則同 scaffold，最終輸俾「一般方法 + 規模」。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "靠人手聰明設計的規則同 scaffold 最終輸俾「一般方法 + 規模」。你一直 prompt 自己（又一個 app、ritual、第二大腦），但問題可能在 base model。很多 scaffold 本身要你已經過咗 threshold 先用得成。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Zhu 七年堆一堆針對失敗的系統（ritual、Beeminder、execution window app），每樣少少幫但唔過關。一個一般底層改變之後，開工、time block、五分鐘法則、完長 project 一齊出現。Scaffolds 係 AutoGPT；真正推過線嘅係個 base。Zhu 提到 stimulants／hormone 係佢自己路徑，唔係處方。只拿 mental model，唔好等 base 完美先行動。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今個星期寫兩欄：(1) 一個你成日改的 scaffold；(2) 一個你願意連續 7 日改善的 base lever（固定睡眠窗口、每星期固定訓練日數，或每晚 45 分鐘連續專注）。七日前只守 base，scaffold 唔准再升級。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你而家最常「再改一層系統」，係為咗真係升 base，定係因為改系統的感覺，比面對一個可能會痛的 base 現實更舒服？"
+        }
+      ],
+      "related": [
+        "2026-10-04-stress-wood",
+        "2026-09-30-upgrade-loop",
+        "2026-10-02-low-expectations"
+      ]
+    },
+    {
+      "id": "2026-10-04-stress-wood",
+      "date": "2026-10-04",
+      "title": "Stress wood",
+      "subtitle": "Unbruised prosperity 頂唔住一擊",
+      "domain": "思維模型",
+      "tags": [
+        "壓力",
+        "長大",
+        "耐力"
+      ],
+      "source": {
+        "label": "JA Westenberg · Unbruised Prosperity Makes You Weak",
+        "url": "https://www.joanwestenberg.com/p/unbruised-prosperity-makes-you-weak"
+      },
+      "cover": {
+        "emoji": "🌳",
+        "gradient": [
+          "#f4efe4",
+          "#e3ead6"
+        ],
+        "hook": "唔風的樹生得快但倒得早——缺 stress wood。",
+        "image": "img/stress-wood.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Stress wood",
+          "body": "Biosphere 2 裡面的樹因為唔風，生得快但倒得早——缺 stress wood。太順的繁榮，頂唔住一擊。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Biosphere 2 裡面的樹因為唔風，生得快但倒得早——缺 stress wood。Unbruised prosperity 頂唔住一擊。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Hormesis：細劑量、可選擇、可生還的 bruising（未準備好都 ship、搵會刺你的 feedback、留一樣你勁唔到的嘢）先長大；颶風式打擊只會折斷。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今個星期自己開一條細風：未完美都 ship 一次，或搵一個會刺你的 feedback。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你而家邊一樣能力，係因為太舒服、仲未受過測試？"
+        }
+      ],
+      "related": [
+        "2026-10-04-bitter-lesson",
+        "2026-09-30-upgrade-loop",
+        "2026-10-02-low-expectations"
+      ]
+    },
+    {
       "id": "2026-10-03-traffic-jam",
       "date": "2026-10-03",
       "title": "塞車理論",
