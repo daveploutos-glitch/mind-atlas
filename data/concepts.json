@@ -1,6 +1,122 @@
 {
   "concepts": [
     {
+      "id": "2026-10-05-power",
+      "date": "2026-10-05",
+      "title": "點樣更有 power",
+      "subtitle": "問 power，唔只問更多錢；power = 被人需要",
+      "domain": "牛人觀點",
+      "tags": [
+        "變現",
+        "競爭",
+        "長路",
+        "槓桿"
+      ],
+      "source": {
+        "label": "Paul Graham · Making Startups Powerful",
+        "url": "https://www.paulgraham.com/powerful.html"
+      },
+      "cover": {
+        "emoji": "🗝️",
+        "gradient": [
+          "#f3efe6",
+          "#e8ddd0"
+        ],
+        "hook": "增量問錢；量級問 power——被需要先係真正槓桿。",
+        "image": "img/power.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "點樣更有 power",
+          "body": "Paul Graham 辦公室小時常問：咩會令間公司更有 power？只問「點樣多賺啲」多數得增量；問 power，有時會令價值差幾個數量級。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "問 power，唔只問更多錢。Power = 被人需要：擁有客戶關係、錢／token 經你流、網絡效應、長期結構位。但有硬約束——每一步都要真係令客戶更好，否則冇 uptake；startup 最初好弱，唯一變強嘅路係幫人。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "從零件供應商變成擁有終端客戶關係；Money flows through you。PayPal 係 tail wags dog：保安 demo 變支付。幫用戶賺錢——採用快又肯付。打長遠局（十年先回本嘅 tradeoff 通常被低估）。Fear 會令 idea 縮水——Just y，企直。Caveat：唔好 VC 式免費搶地；太早送太多會失去付款信號。Marketplace 壞側／難冷啟唔好硬跳。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "拎一個你而家嘅 idea，寫五條 power 問題：(1) 可唔可以擁有客戶關係／令錢經你流？(2) 有冇 app-store／標準位？(3) 點樣加網絡效應？(4) 有冇 tail 可以 wag the dog？(5) 可唔可以賣得更早／拿走更上游嘅 data？每條旁註：呢步有冇令客戶更好？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你對「點樣更有 power」嘅第一個答案——係幫到人、令佢哋更需要你，定係只係想多啲控制？"
+        }
+      ],
+      "related": [
+        "2026-10-05-founder-math",
+        "2026-10-03-micro-saas",
+        "2026-10-03-traffic-jam"
+      ]
+    },
+    {
+      "id": "2026-10-05-founder-math",
+      "date": "2026-10-05",
+      "title": "創辦人數學",
+      "subtitle": "由結局倒推；收入 = 價錢 × 存在 × 觸達 × 願買",
+      "domain": "商機趨勢",
+      "tags": [
+        "變現",
+        "行動",
+        "倒推",
+        "長路"
+      ],
+      "source": {
+        "label": "2080 Ventures · The Founder Math",
+        "url": "https://www.2080.ventures/insights/how-to-actually-make-fuck-you-money-founder-math"
+      },
+      "cover": {
+        "emoji": "🧮",
+        "gradient": [
+          "#f0ebe4",
+          "#dfe4f0"
+        ],
+        "hook": "唔係 price × customers；係存在 × 觸達 × 願買先夾出真實收入。",
+        "image": "img/founder-math.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "創辦人數學",
+          "body": "由結局倒推：你要幾多流動資金、可留幾多股權、需要幾大 exit／ARR——先再揀價錢同客數。電子表唔會替你誠實。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Revenue ≠ price × customers。真實公式：revenue = price × existing × reachable × willing。存在嘅合資格買家、你真係觸達得到嘅比例、同埋願意轉換嘅比例，三層一齊乘，先係你可防衛嘅數字。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "年費 $100k 嘅企業產品，理論上要 1,000 客先有 $100M ARR；若市場只有 300 個合資格買家、一半永不轉用，電子表喺呃你。低客單要巨大 top-of-funnel；高客單要關係同採購耐力——模型決定你要過嘅生活。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "為你一個 idea 倒推一頁：目標流動資金 → 假設持股 → 所需 exit → 所需 ARR／價錢 → 寫四欄數字（price、existing、reachable%、willing%）。邊一欄最唔穩，今日就去核實嗰欄。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你而家口中嘅「市場好大」，係 top-down 願望，定係四個乘數你都肯大聲辯護？"
+        }
+      ],
+      "related": [
+        "2026-10-05-power",
+        "2026-10-03-micro-saas",
+        "2026-10-01-cf-monetization"
+      ]
+    },
+    {
       "id": "2026-10-04-bitter-lesson",
       "date": "2026-10-04",
       "title": "自我提升的 Bitter Lesson",

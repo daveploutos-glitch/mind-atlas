@@ -1,6 +1,15 @@
 {
   "days": [
     {
+      "date": "2026-10-05",
+      "title": "點樣更有 power × 創辦人數學",
+      "summary": "PG：問 power 唔只問錢；被需要先係槓桿。另：由結局倒推，收入 = 價錢 × 存在 × 觸達 × 願買。",
+      "conceptIds": [
+        "2026-10-05-power",
+        "2026-10-05-founder-math"
+      ]
+    },
+    {
       "date": "2026-10-04",
       "title": "自我提升的 Bitter Lesson × Stress wood",
       "summary": "Scaffold 最終輸俾一般方法加規模；七日前只守 base。另：Biosphere 2 的樹缺 stress wood——細風先長大，颶風只會折斷。",
