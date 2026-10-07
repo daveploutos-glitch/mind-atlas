@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-07-wrong-game",
+      "date": "2026-10-07",
+      "title": "玩錯遊戲",
+      "subtitle": "指標變目標就唔再係好指標；你嘅計分板漏咗乜？",
+      "domain": "思維模型",
+      "tags": [
+        "計分板",
+        "取捨",
+        "關係",
+        "目標"
+      ],
+      "source": {
+        "label": "Nick Maggiulli · Playing the Wrong Game（Of Dollars and Data）",
+        "url": "https://ofdollarsanddata.com/playing-the-wrong-game/"
+      },
+      "cover": {
+        "emoji": "🧖",
+        "gradient": [
+          "#f3eee4",
+          "#e3e7e2"
+        ],
+        "hook": "冇獎金、冇名氣嘅桑拿比賽都有人押上性命——你又押緊乜落你嘅遊戲？",
+        "image": "img/wrong-game.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "玩錯遊戲",
+          "body": "Nick Maggiulli 講：人生好多遊戲嘅計分板都唔係你自己畫。玩得好唔等於玩啱——最危險係贏咗先發現，自己一直玩緊錯嘅遊戲。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "芬蘭世界桑拿錦標賽：冇獎金、冇名氣，2010 年決賽搞出人命。只要有規則、有一班人鬥，人就會將身份押落去。人生大部分 status game 都係上行明顯、下行隱形——贏咗人人見到，代價冇人計。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "淨係最大化一個變數：Nick 做咗十年單身 workaholic，做咗父親幾個月先發現，寫作幾大嘅滿足感都比唔上。呢個係 Goodhart's Law 人生版：指標變目標，就唔再係好指標。打個折：n=1、仲喺蜜月期，家庭唔係標準答案；真正洞見係「你嘅計分板漏咗乜」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "計分板審計：列 3–4 個你玩緊嘅遊戲（CFA、Mind Atlas、副業 idea、健身），每個寫「贏咗得到乜」同「可能偷偷付緊咩代價」。再加一行：5 年後想有邊幾個人喺你生活入面？今個禮拜揀一段唔優化嘅時間，同重要嘅人過。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "5 年後做到財務自由、時間自己話事、身形練好——一個平日朝早 10 點，你喺邊、同緊邊個、做緊乜？"
+        }
+      ],
+      "related": [
+        "2026-10-07-muscle-aging",
+        "2026-09-29-anti-vision",
+        "2026-09-30-upgrade-loop"
+      ]
+    },
+    {
+      "id": "2026-10-07-muscle-aging",
+      "date": "2026-10-07",
+      "title": "肌肉嘅長線複利",
+      "subtitle": "長期訓練嘅年長者，肌肉分子 profile 似返後生人",
+      "domain": "健康",
+      "tags": [
+        "訓練",
+        "長壽",
+        "複利"
+      ],
+      "source": {
+        "label": "Nature Aging · Delayed molecular aging in exercise-trained human muscle（2026）",
+        "url": "https://www.nature.com/articles/s43587-026-01150-x"
+      },
+      "cover": {
+        "emoji": "🌱",
+        "gradient": [
+          "#f4efe3",
+          "#e8e3d4"
+        ],
+        "hook": "Summer body 係短期指標；練一世先係真正嘅複利。",
+        "image": "img/muscle-aging.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "肌肉嘅長線複利",
+          "body": "Nature Aging 一項研究比較長期有訓練同冇訓練嘅年長者肌肉——差別唔止喺力量，連分子層面嘅老化都好似慢咗。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "長期有訓練嘅年長者，大約一半同年齡有關嘅肌肉分子差異消失咗，profile 似返後生人。訓練改寫嘅唔只外表，仲有肌肉入面嘅老化訊號。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Summer body 係短期指標；持續訓練先係長線複利——代價有限（時間、少少酸痛），回報係幾十年嘅活動能力，正不對稱。保持清醒：呢個係觀察式比較，唔係處方；長期練嘅人可能本身生活習慣都唔同。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今個禮拜守住你固定嘅訓練日數，唔加唔減。目標唔係破紀錄，係證明自己玩得落去。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "如果訓練係玩一世嘅遊戲，你而家嘅計劃去到 70 歲仲做唔做得到？"
+        }
+      ],
+      "related": [
+        "2026-10-07-wrong-game",
+        "2026-10-06-cluster-sets",
+        "2026-10-04-stress-wood"
+      ]
+    },
+    {
       "id": "2026-10-06-ai-procrastination",
       "date": "2026-10-06",
       "title": "AI 時代嘅結構化拖延",
