@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-06-ai-procrastination",
+      "date": "2026-10-06",
+      "title": "AI 時代嘅結構化拖延",
+      "subtitle": "Token 係新嘅 to-do list；思考始終要做，問題係幾時做",
+      "domain": "思維模型",
+      "tags": [
+        "拖延",
+        "AI",
+        "思考",
+        "委派"
+      ],
+      "source": {
+        "label": "Dan Ariely · Structured Procrastination in the Era of AI（原概念：John Perry, 1995）",
+        "url": "https://danariely.com/structured-procrastination-in-the-era-of-ai/"
+      },
+      "cover": {
+        "emoji": "⏳",
+        "gradient": [
+          "#f3efe6",
+          "#e4e8ee"
+        ],
+        "hook": "叫 bot 開工好似好有生產力——但可能只係避開咗最難嗰部分思考。",
+        "image": "img/ai-procrastination.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "AI 時代嘅結構化拖延",
+          "body": "John Perry 1995 年講結構化拖延：做第二、三位有用嘅嘢嚟逃避第一位。Dan Ariely 話 AI 令呢招升級咗——而家連同一個任務入面都可以拖延。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "以前拖延係喺唔同任務之間揀；而家可以喺同一個任務入面拖延——未諗清楚就叫 agent 開工。Token 就係新嘅 to-do list。思考始終要做，問題係幾時做。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "分界唔係「先諗定先做」，而係「呢次 run 係唔係為咗答一條具體問題」。「起最簡版試 7 日，知用家會唔會每日打開」係思考；「加多個 theme map、再靚啲」但答唔出想驗證乜，係 token 版執書枱。Perry 原意其實正面：做第二、三位有用嘅嘢逃避第一位。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "叫任何 bot 開工前寫三行：(1) 為咗邊個決定？(2) 最唔肯定、最驚錯嘅係邊部分？(3) 點知佢 work 咗？第二行寫唔出，就未到 delegate 嘅時候。再寫一句：「30 日後，如果認知圖鑑係成功嘅，我會見到 ____。」"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近一次同 bot 講「開工啦」係幾時？嗰一下幫你避開咗邊一部分嘅思考？"
+        }
+      ],
+      "related": [
+        "2026-10-06-cluster-sets",
+        "2026-09-30-upgrade-loop",
+        "2026-10-04-bitter-lesson"
+      ]
+    },
+    {
+      "id": "2026-10-06-cluster-sets",
+      "date": "2026-10-06",
+      "title": "Cluster set",
+      "subtitle": "一組拆幾段，中間短抖；總休息一樣，換多啲好 rep",
+      "domain": "健康",
+      "tags": [
+        "訓練",
+        "健身",
+        "質素"
+      ],
+      "source": {
+        "label": "Sport Sciences for Health · Cluster sets 研究（2026）",
+        "url": "https://link.springer.com/article/10.1007/s11332-026-01944-x"
+      },
+      "cover": {
+        "emoji": "🏋️",
+        "gradient": [
+          "#f4efe4",
+          "#e6e2d6"
+        ],
+        "hook": "唔使抖多咗，只係抖得聰明啲——最後幾下都唔走樣。",
+        "image": "img/cluster-sets.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Cluster set",
+          "body": "傳統一組做到盡，最後幾下通常最走樣。Cluster set 將一組拆開幾段，中間加短休息——總休息時間唔變，但每下嘅質素更穩。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "一組拆開幾段，中間短休息，總休息時間一樣。小型研究（有訓練經驗嘅女士）入面，最好嗰組平均做到 18.4 下對 12.8 下，疲勞感低啲，心跳、血壓反應冇分別。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "保持清醒：樣本細、只量單次肌耐力，唔係長期增肌證據。佢證明到嘅係「同一時間內可以做多啲好 rep」，唔係「一定長得快啲」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "最後一兩組開始走樣時，將一組拆做兩段，中間抖 20–30 秒，換多啲質素好嘅 rep。記低拆組前後總次數同感覺。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你邊個動作最後幾下最常走樣？"
+        }
+      ],
+      "related": [
+        "2026-10-06-ai-procrastination",
+        "2026-10-04-stress-wood",
+        "2026-09-30-upgrade-loop"
+      ]
+    },
+    {
       "id": "2026-10-05-power",
       "date": "2026-10-05",
       "title": "點樣更有 power",
