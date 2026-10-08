@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-08-headline-forecast",
+      "date": "2026-10-08",
+      "title": "為恐懼標價",
+      "subtitle": "把恐懼改寫成可驗證的問題，先看基準率，再給它一個數字",
+      "domain": "思維模型",
+      "tags": [
+        "預測",
+        "基準率",
+        "機率",
+        "模型風險"
+      ],
+      "source": {
+        "label": "Scott Alexander · Top Forecasters On The Plague（Astral Codex Ten）",
+        "url": "https://www.astralcodexten.com/p/top-forecasters-on-the-plague"
+      },
+      "cover": {
+        "emoji": "📰",
+        "gradient": [
+          "#f3efe6",
+          "#e2e6ec"
+        ],
+        "hook": "一則嚇人的頭條，換算成機率之後可能不到 1%——前提是你先問對問題。",
+        "image": "img/headline-forecast.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "為恐懼標價",
+          "body": "Scott Alexander 把一則鼠疫新聞交給頂尖預測者。他們給的答案不是「很可怕」或「沒事」，而是一個數字。看到嚇人的標題時，第一步不是轉發，而是標價。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "看到嚇人的標題時，先給它一個數字。把恐懼改寫成可以驗證的問題：發生什麼、什麼時候之前、門檻多高。先看基準率，再用多個來源交叉比對，並把「嚴重」和「值得恐慌」分開——一件事可以後果嚴重，但發生機率很低。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "俄羅斯伊爾庫茨克一名實驗室助理疑似死於鼠疫。問題改寫成：「12 個月內全球鼠疫死亡是否超過 1,000 人？」Sentinel 超級預測者給 0.7%、FutureSearch 1%、Preseen 0.2%。基準率：世衛 2019–2025 年七年共 423 宗死亡，最差的 2023 年也只有 79 宗。保持清醒：來源「多」不等於「獨立」——它們依賴同一批不透明的資料，這就是模型風險。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "頭條換算表：挑一則讓你不安的新聞，寫下四行——① 可驗證的問題（發生什麼、何時之前、門檻多高）② 基準率 ③ 你的機率 ④ 什麼新資訊會讓你改變看法。然後在日曆設一個到期日，屆時回來對答案。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "最近一次你因為一則新聞而改變行動或情緒，是哪一則？如果當時先寫下機率，你會估多少？"
+        }
+      ],
+      "related": [
+        "2026-10-08-harried-leisure",
+        "2026-10-02-low-expectations",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-08-harried-leisure",
+      "date": "2026-10-08",
+      "title": "匆忙的閒暇階級",
+      "subtitle": "越富裕，閒暇越像工作；在家請客的美國人五十年間由 42% 跌到 12%",
+      "domain": "世界事",
+      "tags": [
+        "關係",
+        "閒暇",
+        "社交"
+      ],
+      "source": {
+        "label": "Derek Thompson · You Are No Longer Invited to Dinner",
+        "url": "https://www.derekthompson.org/p/the-death-of-the-american-host"
+      },
+      "cover": {
+        "emoji": "🍲",
+        "gradient": [
+          "#f4eee3",
+          "#ebe2d6"
+        ],
+        "hook": "請客不需要完美的家和廚藝，一鍋火鍋就夠。",
+        "image": "img/harried-leisure.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "匆忙的閒暇階級",
+          "body": "Derek Thompson 問：為什麼越來越少人請你到家裡吃飯？答案也許不是大家變冷淡，而是時間變「貴」了。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "至少每月在家招待親友一次的美國人，由 1975 年的 42% 跌到 2026 年的 12%。請客需要時間、空間，還有一點麻煩——而這些正是富裕社會最捨不得付出的東西。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "瑞典經濟學家 Staffan Linder 1970 年寫《The Harried Leisure Class》：社會越富裕，每小時越值錢，閒暇就越像工作時間，每一小時都在提醒你「本來可以賺錢」。今天的運動熱潮也多是一個人戴著耳機去健身房。打個折：這是美國數據，不能直接套用到香港。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週約一位朋友吃一頓飯，不必講究，一鍋火鍋就夠。重點不是菜色，而是留一段不計算回報的時間給人。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你上一次主動請人吃飯，是什麼時候？"
+        }
+      ],
+      "related": [
+        "2026-10-08-headline-forecast",
+        "2026-10-07-wrong-game",
+        "2026-09-29-anti-vision"
+      ]
+    },
+    {
       "id": "2026-10-07-wrong-game",
       "date": "2026-10-07",
       "title": "玩錯遊戲",
