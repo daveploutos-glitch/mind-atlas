@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-10-investor-vs-tracker",
+      "date": "2026-10-10",
+      "title": "投資者與開支追蹤者",
+      "subtitle": "人只有兩種——尋找上行不對稱的投資者，或盯成本與下行的開支追蹤者",
+      "domain": "思維模型",
+      "tags": [
+        "投資心智",
+        "無知稅",
+        "猶豫",
+        "配置"
+      ],
+      "source": {
+        "label": "Tim Denning · Your Entire Life Changes When You Stop Being a Spend Tracker",
+        "url": "https://timdenning.substack.com/p/your-entire-life-changes-when-you-5cf"
+      },
+      "cover": {
+        "emoji": "⚖️",
+        "gradient": [
+          "#f3efe6",
+          "#e8ebe3"
+        ],
+        "hook": "猶豫往往比做錯更貴——把「花錢」重標成「配置」，先買選擇權與跑道。",
+        "image": "img/investor-vs-tracker.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "投資者與開支追蹤者",
+          "body": "Tim Denning 說：人只有兩種——投資者，或開支追蹤者。前者尋找上行不對稱；後者盯著成本與下行。你現在比較像哪一種？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "人只有兩種——投資者，或開支追蹤者。開支追蹤者盯成本與下行；投資者尋找上行不對稱、下行有限的機會。每個人都在付「無知稅」；猶豫往往比做錯更貴。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "把「花錢」重標成「配置」。對 Chi Wai 的修正：現階段儲蓄不是小氣，而是買選擇權與跑道；用開支紀律保護跑道，用投資者心智配置時間與學習——兩者不是對立。現在最像投資的配置是 CFA、身體訓練、世界向思考。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫兩欄——左欄「開支追蹤者反應」（最近因怕虧／怕丟臉／再研究一下而沒做的決定）；右欄「投資者改寫」（下行有限時的可逆最小版本）。只寫一條。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "如果投資者＝用有限下行換學習與選擇權的人，這週最想對哪一件小事做一次可逆最小押注——身體、學習，還是人際？"
+        }
+      ],
+      "related": [
+        "2026-10-10-math-industrial",
+        "2026-10-02-cognitive-capital",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-10-math-industrial",
+      "date": "2026-10-10",
+      "title": "解難題被工業化之後",
+      "subtitle": "當解題被批量產出，稀缺從「誰先證出來」轉向判斷、解釋與信用",
+      "domain": "世界事",
+      "tags": [
+        "AI",
+        "稀缺",
+        "判斷力"
+      ],
+      "source": {
+        "label": "The Next Web · OpenAI publishes 722 maths papers from unreleased model",
+        "url": "https://thenextweb.com/news/openai-maths-722-papers-unreleased-model-github"
+      },
+      "cover": {
+        "emoji": "📐",
+        "gradient": [
+          "#f2efe8",
+          "#e4e8ec"
+        ],
+        "hook": "答案變便宜之後，耐用的是可驗證的判斷力與表達力。",
+        "image": "img/math-industrial.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "解難題被工業化之後",
+          "body": "OpenAI 一次公開約 722 篇由尚未釋出內部模型產出的數學手稿。當「解難題」可以批量工業產出，稀缺會移到哪裡？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "OpenAI 一次公開約 722 篇由尚未釋出內部模型產出的數學手稿。當「解難題」被批量工業化，稀缺從「誰先證出來」轉向「誰能判斷、解釋、教學，與建立信用規範」。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "顧問小組稱這是理解的開始而非結束；也有數學家質疑核驗是否充分。對累積認知資本的人：可驗證的判斷力與表達力，比資訊吞吐量更耐用。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週挑一個你剛「懂了」的概念，用三句話向不認識的人解釋，並寫下一個可驗證的檢驗方式。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "當答案變便宜，你最想變強的是判斷、解釋，還是建立信用？"
+        }
+      ],
+      "related": [
+        "2026-10-10-investor-vs-tracker",
+        "2026-10-02-cognitive-capital",
+        "2026-10-04-bitter-lesson"
+      ]
+    },
+    {
       "id": "2026-10-08-headline-forecast",
       "date": "2026-10-08",
       "title": "為恐懼標價",
