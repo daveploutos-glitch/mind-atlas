@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-11-loud-liker",
+      "date": "2026-10-11",
+      "title": "大聲喜歡",
+      "subtitle": "訊號放大偏差與喜歡落差，讓兩個互相有好感的人各自以為對方沒感覺",
+      "domain": "思維模型",
+      "tags": [
+        "關係",
+        "訊號",
+        "喜歡落差",
+        "社交"
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Loud Liker Theory",
+        "url": "https://sahilbloom.substack.com/p/the-loud-liker-theory"
+      },
+      "cover": {
+        "emoji": "📣",
+        "gradient": [
+          "#f4efe6",
+          "#ebe6dc"
+        ],
+        "hook": "把喜歡說出來——代價是偶爾被拒絕；買到的幾乎是其他一切。",
+        "image": "img/loud-liker.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "大聲喜歡",
+          "body": "成年後，黏性強的社交場合變少；多數新關係在「滑溜」場合發生。兩個互相有好感的人，為什麼常常各自以為對方沒感覺？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "成年後黏性社交場合變少，多數新關係在滑溜場合發生。訊號放大偏差讓發送方高估自己表達得多明顯；喜歡落差讓人低估對方有多喜歡自己。結果兩個互相有好感的人各自以為對方沒感覺。解法：把喜歡說出來（Loud Liker）。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "稱讚外套、忽然打電話、具體寫一句欣賞、給上場的人加油。代價是偶爾被拒絕；買到的幾乎是其他一切。注意：要具體、真實、對象明確，不是表演或到處點讚；社交財富是放大器，不是取代專業資格、儲蓄或訓練。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一個人，寫一則具體訊息：只寫一件事、為什麼重要、不要附帶請求；本週送出。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "生命裡有沒有一個人——如果今天把欣賞說出來，對方可能會感到意外？那一句話會是什麼？"
+        }
+      ],
+      "related": [
+        "2026-10-11-loneliness-sleep-sarcopenia",
+        "2026-10-08-harried-leisure",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-11-loneliness-sleep-sarcopenia",
+      "date": "2026-10-11",
+      "title": "孤獨、睡眠與肌少症",
+      "subtitle": "孤獨感與不安穩睡眠各自相關；兩者同時出現時，後續肌少症勝算更高",
+      "domain": "健康",
+      "tags": [
+        "睡眠",
+        "孤獨",
+        "肌肉"
+      ],
+      "source": {
+        "label": "Scientific Reports · Loneliness, sleep and sarcopenia (CHARLS)",
+        "url": "https://www.nature.com/articles/s41598-026-73578-5"
+      },
+      "cover": {
+        "emoji": "🌙",
+        "gradient": [
+          "#eef1f4",
+          "#e6ebe8"
+        ],
+        "hook": "社會連結與睡眠，會進肌肉與長期體態的風險帳。",
+        "image": "img/loneliness-sleep.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "孤獨、睡眠與肌少症",
+          "body": "CHARLS 資料研究：孤獨感與不安穩睡眠，各自與後續可能／確診肌少症的較高勝算相關。兩者同時出現時，風險如何疊加？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "CHARLS 資料研究：孤獨感與不安穩睡眠各自與後續可能／確診肌少症的較高勝算相關；兩者同時出現時，調整後勝算比約 1.53。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "這是觀察性研究，不能當因果鐵證；但社會連結與睡眠會進肌肉與長期體態的風險帳——與訓練、蛋白質並列，而非無關的「軟變數」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週檢查一件：固定睡眠窗口，或約一位朋友／一起練的人見一次面。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你目前比較缺的是睡眠穩定，還是真實的社交連結？"
+        }
+      ],
+      "related": [
+        "2026-10-11-loud-liker",
+        "2026-10-07-muscle-aging",
+        "2026-10-06-cluster-sets"
+      ]
+    },
+    {
       "id": "2026-10-10-investor-vs-tracker",
       "date": "2026-10-10",
       "title": "投資者與開支追蹤者",
