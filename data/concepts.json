@@ -1,6 +1,121 @@
 {
   "concepts": [
     {
+      "id": "2026-10-12-asymmetry",
+      "date": "2026-10-12",
+      "title": "不對稱優勢",
+      "subtitle": "不要在對手設定的場地上打；創新領先不是護城河；強壯的資產負債表才是戰略武器",
+      "domain": "思維模型",
+      "tags": [
+        "不對稱",
+        "護城河",
+        "資產負債表",
+        "場地"
+      ],
+      "source": {
+        "label": "Scott Galloway · Asymmetry",
+        "url": "https://www.profgmedia.com/p/asymmetry"
+      },
+      "cover": {
+        "emoji": "⚔️",
+        "gradient": [
+          "#f4efe6",
+          "#e8ebe3"
+        ],
+        "hook": "領先只是開局——護城河與資產負債表，才決定誰能打完這場。",
+        "image": "img/asymmetry.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "不對稱優勢",
+          "body": "歷史上弱者常勝強者：不正面硬剛，而打不對稱戰。商業與個人策略，同樣適用。三個可帶走的結構是什麼？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "三個可帶走的結構：（1）不要在對手設定的場地上打；（2）創新領先不等於護城河——後發者常能複製並規模化；（3）強壯的資產負債表才是戰略武器。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "游擊／廉價手段逼貴對手付出不成比例的成本；Netscape 開路、Microsoft 規模化；Diners Club 發明信用卡、Visa 做成帝國。Ferguson's Law：利息超過國防開支，帝國風險上升——拿隱喻即可，政策細節不必內化。對個人：CFA、儲蓄紀律、健康資本＝先養資產負債表；副業別正面硬剛平台，可當後發者抄已驗證做法。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫「不對稱地圖」三欄——拒絕正面硬剛的地方、用便宜優勢打貴對手的地方、可當後發者抄已驗證做法的地方。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "未來 90 天裡，你還在哪一件事上用別人的規則與計分板在打？改成自己的場地，最小一步是什麼？"
+        }
+      ],
+      "related": [
+        "2026-10-12-five-minutes",
+        "2026-10-10-investor-vs-tracker",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-12-five-minutes",
+      "date": "2026-10-12",
+      "title": "五分鐘打破循環",
+      "subtitle": "打破循環往往只需要五分鐘——運動五分鐘就回到路上；寫作五分鐘稿子又在前進",
+      "domain": "思維模型",
+      "tags": [
+        "習慣",
+        "行動",
+        "完美主義"
+      ],
+      "source": {
+        "label": "James Clear · 3-2-1 (Oct 8, 2026)",
+        "url": "https://jamesclear.com/3-2-1/october-8-2026"
+      },
+      "cover": {
+        "emoji": "⏳",
+        "gradient": [
+          "#f3efe6",
+          "#ebe8e0"
+        ],
+        "hook": "狀態不夠完美時，五分鐘是緊急出口——不是全天報廢的理由。",
+        "image": "img/five-minutes.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "五分鐘打破循環",
+          "body": "覺得今天已經毀了、乾脆放棄？James Clear 說：打破循環往往只需要五分鐘。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "打破循環往往只需要五分鐘——運動五分鐘就回到路上；寫作五分鐘稿子又在前進。關鍵不是完美開局，而是重新接上。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "狀態不夠完美時，用五分鐘當緊急出口，而不是全天報廢。實力是願意承受摩擦後仍能續上——不是等條件完美才開始。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今天選一件卡住的事，只做五分鐘。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最常因為「不夠完美」而整天空過的，是哪一件？"
+        }
+      ],
+      "related": [
+        "2026-10-12-asymmetry",
+        "2026-09-30-upgrade-loop",
+        "2026-10-06-ai-procrastination"
+      ]
+    },
+    {
       "id": "2026-10-11-loud-liker",
       "date": "2026-10-11",
       "title": "大聲喜歡",
