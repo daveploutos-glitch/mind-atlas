@@ -1,6 +1,123 @@
 {
   "concepts": [
     {
+      "id": "2026-10-14-four-quadrants",
+      "date": "2026-10-14",
+      "title": "四邏輯象限",
+      "subtitle": "交叉實際確定性與對待方式：教條、定律、試探、疏忽——主動把教條降成試探，再把試探升級成定律",
+      "domain": "思維模型",
+      "tags": [
+        "演繹",
+        "歸納",
+        "教條",
+        "試探",
+        "確定性"
+      ],
+      "source": {
+        "label": "Álvaro García · Deduction and Induction (Mental Garden)",
+        "url": "https://followmentalgarden.substack.com/p/deduction-and-induction"
+      },
+      "cover": {
+        "emoji": "▦",
+        "gradient": [
+          "#f4efe6",
+          "#e8ebe3"
+        ],
+        "hook": "低確定當定律是教條；高確定當賭注是疏忽——實踐推理者主動尋找黑天鵝。",
+        "image": "img/four-quadrants.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "四邏輯象限",
+          "body": "你怎麼推理，往往取決於兩軸：這件事有多確定，以及你把它當定律還是當賭注。交叉之後，出現四個象限。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "交叉「實際確定性」與「你怎麼對待它」得四象限——教條（低確定當定律）、定律（高確定當定律）、試探（低確定當賭注）、疏忽（高確定卻當賭注敷衍）。實踐推理者主動把教條降成試探，再把試探升級成定律，並主動找黑天鵝。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Semmelweis：問題不是缺數據，而是把低確定印象當定律。演繹從已立定律往下推；歸納從觀察往上試探。Caveat：不必每事畫四格；該當定律的規則（CFA、儲蓄、訓練）不要永遠停在試探。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫下最在意的一個判斷，標確定性高／低與定律／賭注；若落在教條或疏忽，寫下一條黑天鵝檢驗。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "這週最想升級成定律的生活規則是什麼？哪個教條該降成試探？"
+        }
+      ],
+      "related": [
+        "2026-10-14-cognitive-hotdog",
+        "2026-10-08-headline-forecast",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-14-cognitive-hotdog",
+      "date": "2026-10-14",
+      "title": "認知熱狗",
+      "subtitle": "AI 像認知熱狗——偶爾無妨，當正餐傷認知系統；委派愈多，自主推理環境愈弱",
+      "domain": "思維模型",
+      "tags": [
+        "AI",
+        "認知委派",
+        "思考",
+        "認知資本"
+      ],
+      "source": {
+        "label": "Benjamin Riley · Our minds did not evolve for AI",
+        "url": "https://buildcognitiveresonance.substack.com/p/our-minds-did-not-evolve-for-ai"
+      },
+      "cover": {
+        "emoji": "🌭",
+        "gradient": [
+          "#f3efe6",
+          "#ebe6dc"
+        ],
+        "hook": "偶爾吃熱狗無妨；天天當正餐，腸胃與認知都會變弱。",
+        "image": "img/cognitive-hotdog.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "認知熱狗",
+          "body": "AI 方便得像熱狗——偶爾無妨；若當正餐，傷的是整套認知系統。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "AI 像認知熱狗——偶爾無妨，當正餐傷認知系統。認知委派：努力思考很難，有捷徑就交出去；委派愈多，自主推理環境愈弱。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "對策不是全面禁 AI，而是保留不靠工具解題、核對、認真討論、刻意斷開的時段。與認知圖鑑同方向：把思考肌肉留在自己身上。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週留一段三十分鐘「不開 AI」的深想或手寫時間。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近最常把哪一種思考外包給 AI？"
+        }
+      ],
+      "related": [
+        "2026-10-14-four-quadrants",
+        "2026-10-06-ai-procrastination",
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
       "id": "2026-10-12-asymmetry",
       "date": "2026-10-12",
       "title": "不對稱優勢",
