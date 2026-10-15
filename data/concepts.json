@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-15-interpreter-stories",
+      "date": "2026-10-15",
+      "title": "敘事謬誤／大腦解讀器",
+      "subtitle": "左腦「解讀器」把零散事實縫成因果；敘事謬誤寧可要錯的故事也不要沒有故事——自我故事會製造自己的證據，也能重寫",
+      "domain": "思維模型",
+      "tags": [
+        "敘事謬誤",
+        "解讀器",
+        "自我故事",
+        "確認偏誤",
+        "身份"
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Stories You Tell Yourself",
+        "url": "https://www.sahilbloom.com/newsletter/the-stories-you-tell-yourself"
+      },
+      "cover": {
+        "emoji": "📖",
+        "gradient": [
+          "#f4efe6",
+          "#e8e6e0"
+        ],
+        "hook": "一句話：你對自己說的故事，會開始替你蒐集證據。",
+        "image": "img/interpreter-stories.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "敘事謬誤／大腦解讀器",
+          "body": "你腦中有一套「解讀器」，專職把零散事實縫成因果故事。問題通常不是缺事實，而是故事先寫好了。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Gazzaniga 裂腦實驗顯示左腦會立刻編出聽起來合理的因果；Taleb 的敘事謬誤：寧可要錯的故事，也不要沒有故事。自我故事經確認偏誤會「製造」證據——普通表現變鐵證、好表現變僥倖。Bloom 五問：(1) 我在說什麼故事？(2) 為什麼信？證據是什麼？(3) 若為假，反證是什麼？(4) 有沒有給反證足夠權重？(5) 若相反故事為真，我會怎麼活？"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "「我不聰明」「我不是創業者型」「要等 CFA 過了才有資格想被動收入」——聽起來冷靜，其實是解讀器在替你省事。Caveat：重寫不是正向思考口號；沒有反證就別硬改標籤。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一句最近最黏的自我故事，只做前三問：故事是什麼、支持證據、若為假的反證。寫在紙上或備忘錄即可。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "哪一句故事最常讓你在「開始」之前就轉身離開？若暫時當假，本週會多做哪一件 15 分鐘內的事？"
+        }
+      ],
+      "related": [
+        "2026-10-14-four-quadrants",
+        "2026-10-07-wrong-game",
+        "2026-10-15-daily-mvpa-sleep"
+      ]
+    },
+    {
+      "id": "2026-10-15-daily-mvpa-sleep",
+      "date": "2026-10-15",
+      "title": "每日短運動與深層睡眠",
+      "subtitle": "較常活動者深層／非快速動眼睡眠較多；每天約 10 分鐘中高強度活動就與更好睡眠有關——頻率可能比週末一次練爆更貼近恢復",
+      "domain": "健康",
+      "tags": [
+        "睡眠",
+        "運動",
+        "深層睡眠",
+        "頻率",
+        "恢復"
+      ],
+      "source": {
+        "label": "UT Austin Fitbit study via ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm"
+      },
+      "cover": {
+        "emoji": "🌙",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "每天約十分鐘中高強度活動，可能比週末練爆更貼近深層睡眠。",
+        "image": "img/daily-mvpa-sleep.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "每日短運動與深層睡眠",
+          "body": "睡眠恢復不只靠「練夠不夠兇」，也跟你多常動有關。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "德州大學奧斯汀分校用 Fitbit 追蹤年輕成人數月：較常活動者深層／非快速動眼睡眠較多；每天約 10 分鐘中高強度活動（還能對話的費力程度）與更好睡眠有關；散步與起身休息也連到較好睡眠與隔日心情。這是觀察關聯，不是鐵律因果。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "週末戰士把整週訓練壓進兩天，可能錯過「頻率」這條與睡眠恢復相關的線。對正在練身材的人：短、常、可對話強度的動，值得當恢復策略的一部分。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週選四天，每天加一段約 10 分鐘中高強度活動（快走、爬樓、短 HIIT 皆可），睡前記一筆是否比平常更容易入睡或醒來較清。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你現在的訓練比較像「每天短動」還是「週末練爆」？若改頻率，哪一天最容易插入十分鐘？"
+        }
+      ],
+      "related": [
+        "2026-10-15-interpreter-stories",
+        "2026-10-07-muscle-aging",
+        "2026-10-11-loneliness-sleep-sarcopenia"
+      ]
+    },
+    {
       "id": "2026-10-14-four-quadrants",
       "date": "2026-10-14",
       "title": "四邏輯象限",
