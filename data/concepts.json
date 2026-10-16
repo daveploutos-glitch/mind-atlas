@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-16-energy-audit",
+      "date": "2026-10-16",
+      "title": "能量審計",
+      "subtitle": "對的事要發生在對的時間；身分認同式的例行可能偷走真正優先事項的最佳時段——用一週能量筆記驗證峰值，再把最重要的事搬進去",
+      "domain": "思維模型",
+      "tags": [
+        "能量",
+        "峰值時段",
+        "心流",
+        "例行",
+        "時段配置"
+      ],
+      "cover": {
+        "emoji": "⚡",
+        "gradient": [
+          "#f4efe6",
+          "#e8e6e0"
+        ],
+        "hook": "對的事，塞進錯的時段，一樣會卡住。",
+        "image": "img/energy-audit.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "能量審計",
+          "body": "就算目標對了，若把最重要的事塞進一天裡最錯的時段，一樣會卡住。能量審計幫你找出真正的峰值窗口。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Bloom 大學棒球養成凌晨健身房身分，寫書時卻發現練完八點坐下來創作幾乎是零。他一週隨手記「有創意／身體有勁／專注／耗盡／焦慮」，不現場分析——趨勢顯示起床後最聚焦窗口被健身房吃掉。改「先寫再練」試一週，試驗跑了四年。晨型／夜型部分寫在基因裡；用三題快測粗分 Lark／Third Bird／Owl，再用審計驗證，把一件最重要的事搬進峰值試一週。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "「我是晨練的人」可以默默偷走 CFA 深度讀寫的最佳時段。Caveat：別把 Lark／Owl 穿成新身分；睡眠不夠時，重排只是換個地方空轉。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "連續三天迷你能量審計——剛醒、上午中段、下班後、睡前各記一個詞（銳利／飄／耗／焦慮／有勁）。第三天晚上五分鐘看：最清醒窗口在哪？CFA 或訓練有沒有被擠出？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你現在最重要的一件事，比較像放在對的窗口，還是卡在看起來很自律、其實在偷峰值的舊節奏裡？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Energy Audit: A Practical Approach to Finding Flow",
+        "url": "https://www.sahilbloom.com/newsletter/the-energy-audit-a-practical-approach-to-finding-flow"
+      },
+      "related": [
+        "2026-10-15-interpreter-stories",
+        "2026-10-14-four-quadrants",
+        "2026-10-16-five-minutes-uncomfortable"
+      ]
+    },
+    {
+      "id": "2026-10-16-five-minutes-uncomfortable",
+      "date": "2026-10-16",
+      "title": "先不舒服五分鐘",
+      "subtitle": "「你願意先不舒服五分鐘嗎？」運動、對話、寫作往往開始後就容易多了——用「若變得有趣一點會長成什麼」重新設計開場",
+      "domain": "習慣決策",
+      "tags": [
+        "啟動",
+        "習慣",
+        "五分鐘",
+        "阻力",
+        "開始"
+      ],
+      "cover": {
+        "emoji": "🚪",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "願意先不舒服五分鐘，後面往往就容易了。",
+        "image": "img/five-minutes-uncomfortable.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "先不舒服五分鐘",
+          "body": "卡住的事常常不是難在中段，而是難在跨過開始那五分鐘。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "James Clear 留下一句很貼的話：你願意先不舒服五分鐘嗎？運動、對話、寫作，往往開始後就容易多了。他再問：若這件事變得有趣一點，會長成什麼樣子？把阻力最大的開場，改成可完成的五分鐘設計。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "CFA 某一節或今晚訓練，不必一開始就完美——先設計五分鐘開場（打開筆記寫三行、換上訓練鞋走去健身房），過了啟動門檻再延續。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一件今天會拖的事，只設計五分鐘開場並做完；問自己：若它變得有趣一點，會長成什麼樣子？"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近最常在「開始之前」轉身離開的是哪一件？五分鐘開場可以長成什麼？"
+        }
+      ],
+      "source": {
+        "label": "James Clear · 3-2-1 (October 15, 2026)",
+        "url": "https://jamesclear.com/3-2-1/october-15-2026"
+      },
+      "related": [
+        "2026-10-16-energy-audit",
+        "2026-10-12-five-minutes",
+        "2026-10-15-daily-mvpa-sleep"
+      ]
+    },
+    {
       "id": "2026-10-15-interpreter-stories",
       "date": "2026-10-15",
       "title": "敘事謬誤／大腦解讀器",
