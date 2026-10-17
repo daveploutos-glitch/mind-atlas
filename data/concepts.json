@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-17-awareness-perishable",
+      "date": "2026-10-17",
+      "title": "覺察會過期",
+      "subtitle": "危機能短暫照亮什麼才重要，但那份清楚極易腐壞——對抗的方法是不斷製造提醒，把真正重要的事釘回眼前",
+      "domain": "思維模型",
+      "tags": [
+        "覺察",
+        "優先順序",
+        "提醒",
+        "危機",
+        "意義"
+      ],
+      "cover": {
+        "emoji": "📌",
+        "gradient": [
+          "#f4efe6",
+          "#e8e6e0"
+        ],
+        "hook": "覺察會過期；優先順序要自己釘回眼前。",
+        "image": "img/awareness-perishable.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "覺察會過期",
+          "body": "當世界突然變小，你還記得什麼？更難的是：隔天平常日子一回來，那份清楚還在嗎？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Bloom 在巴拿馬經歷 7.7 級地震與三十小時餘震後，發現隔天車上又開始煩工作與行程——地震帶來的「什麼才重要」幾乎立刻淡掉。結論：覺察極易腐壞。對抗方式不是追逐危機，而是不斷製造提醒，把真正重要的事釘在看得見的地方。另五點：世界變小、共同困境拉近人、混亂時先降期望、承認無力、壞運氣未必那麼壞。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "CFA、訓練、自動儲蓄這些「為什麼」在平日很容易輸給雜訊。Caveat：別浪漫化「挑戰＝意義」；多數成長來自平淡複利，危機能照亮優先順序，但不能取代系統。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫下三句「不可談判的提醒」，放在每天一定會看到的地方（鎖屏、書籤、書桌一角）——不是激勵語錄，是你自己的優先順序釘。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若覺察會過期，你現在願意用哪一種具體提醒，讓自己在平日也記得三年後真正在意的事？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · 30 Hours in a Massive Earthquake",
+        "url": "https://www.sahilbloom.com/newsletter/30-hours-in-a-massive-earthquake"
+      },
+      "related": [
+        "2026-10-16-energy-audit",
+        "2026-10-15-interpreter-stories",
+        "2026-10-17-who-got-richer"
+      ]
+    },
+    {
+      "id": "2026-10-17-who-got-richer",
+      "date": "2026-10-17",
+      "title": "誰變得更有錢",
+      "subtitle": "經通膨調整後，年長者中位淨資產上升、年輕人下降——差距多半來自誰踩在房產與金融資產通膨上；盯住會複利的東西，而不只盯薪水",
+      "domain": "商機趨勢",
+      "tags": [
+        "資產配置",
+        "淨資產",
+        "通膨",
+        "複利",
+        "SCF"
+      ],
+      "cover": {
+        "emoji": "📈",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "誰變得更有錢，往往取決於你擁有什麼會複利的東西。",
+        "image": "img/who-got-richer.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "誰變得更有錢",
+          "body": "同樣一段通膨與資產上漲，不同年齡與資產結構的人，結局差很多。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Maggiulli 用聯準會 2025 年 SCF：經通膨調整後，美國 75 歲以上家庭中位淨資產約升 38%，35 歲以下約降 23%。差距多半來自資產結構——年長者更吃到房產、退休帳戶與金融資產上漲；年輕人較少踩在那波資產通膨上。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "別只盯薪水曲線；要盯「你擁有什麼會複利的東西」。CFA 加紀律儲蓄，是先站上資產端的入場券；副業可以稍後再談。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "打開你的資產／儲蓄現況（哪怕很簡陋），標出一項「已在複利」與一項「還只在薪水端」的差距；本週只決定下一步要把多少比例自動推進資產端。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若三年後你變得更有錢，比較可能是因為薪水漲了，還是因為你更早站上會複利的資產端？"
+        }
+      ],
+      "source": {
+        "label": "Nick Maggiulli · Who Got Richer Since 2022?",
+        "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+      },
+      "related": [
+        "2026-10-17-awareness-perishable",
+        "2026-10-10-investor-vs-tracker",
+        "2026-10-07-wrong-game"
+      ]
+    },
+    {
       "id": "2026-10-16-energy-audit",
       "date": "2026-10-16",
       "title": "能量審計",
