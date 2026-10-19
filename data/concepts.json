@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-19-loud-liker",
+      "date": "2026-10-19",
+      "title": "大聲喜歡理論",
+      "subtitle": "成年後多是滑動場景；訊號放大偏差與喜歡落差，讓互相有好感的人各自以為對方沒感覺——解法是把欣賞說出聲",
+      "domain": "思維模型",
+      "tags": [
+        "大聲喜歡",
+        "訊號",
+        "喜歡落差",
+        "社交",
+        "黏著場景"
+      ],
+      "cover": {
+        "emoji": "📣",
+        "gradient": [
+          "#f4efe6",
+          "#ebe6dc"
+        ],
+        "hook": "喜歡若不說出口，種子還沒發芽就乾死了。",
+        "image": "img/loud-liker-20261019.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "大聲喜歡理論",
+          "body": "成人關係很多機會，死在「我以為對方沒感覺、對方也以為我沒感覺」。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "sticky（學校／職場）vs smooth（短暫流動）。訊號放大偏差：害怕被拒的人高估自己傳出的喜歡有多明顯。喜歡落差：系統性低估對方對我們的喜歡。解法：大聲喜歡——具體說出欣賞；不對稱策略：偶爾付出被拒代價，卻幾乎買到其他一切。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "不是網路化或硬誇；沒有真實欣賞會被聞出來。它補訊號強度，不取代 CFA／儲蓄／訓練硬底子。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "挑一位真心欣賞卻從未明說的人，用一句具體的話告訴對方你欣賞什麼（「你上次處理 X 的方式讓我學到 Y」），日記記反應。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "過去一年有沒有因為怕奇怪或以為對方該知道而沒說出口的欣賞？若當時說了，可能怎樣不同？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Loud Liker Theory",
+        "url": "https://www.sahilbloom.com/newsletter/the-loud-liker-theory"
+      },
+      "related": [
+        "2026-10-11-loud-liker",
+        "2026-10-07-wrong-game",
+        "2026-10-19-wrong-game"
+      ]
+    },
+    {
+      "id": "2026-10-19-wrong-game",
+      "date": "2026-10-19",
+      "title": "玩錯遊戲",
+      "subtitle": "規則一出現，身份就被吸進去；你以為在最大化一個變數，其實在無聲犧牲另一個——核對你自己的計分板",
+      "domain": "思維模型",
+      "tags": [
+        "計分板",
+        "身份",
+        "隱性成本",
+        "優先順序",
+        "遊戲"
+      ],
+      "cover": {
+        "emoji": "🎯",
+        "gradient": [
+          "#f3eee4",
+          "#e3e7e2"
+        ],
+        "hook": "最貴的代價，往往是你沒把它寫進計分板的那一項。",
+        "image": "img/wrong-game-20261019.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "玩錯遊戲",
+          "body": "有人為幾乎沒獎金的比賽拼到極限——因為身份被規則吸住了。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Maggiulli：創作者圈把巨大平台當人生藍圖卻少談家庭；Paul Tudor Jones：終點回望想的不是交易，而是愛過誰、被誰愛過。隱性成本：最大化一個變數時無聲犧牲另一個。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Instagram 身材、粉絲數、「看起來很努力」可能是錯誤計分板。你的板仍是：CFA 進度、20% 儲蓄、身體指標、真正想一起走的人。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫下你這週實際在優化的三個分數，再寫下你三年後真正在意的三個；圈出錯位的那一項，今天只改一個微小行為對齊。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你現在最用力的那個「遊戲」，若十年後回看，還會想贏嗎？"
+        }
+      ],
+      "source": {
+        "label": "Nick Maggiulli · Playing the Wrong Game",
+        "url": "https://ofdollarsanddata.com/playing-the-wrong-game/"
+      },
+      "related": [
+        "2026-10-07-wrong-game",
+        "2026-10-19-loud-liker",
+        "2026-10-17-awareness-perishable"
+      ]
+    },
+    {
       "id": "2026-10-18-asset-mix-wealth",
       "date": "2026-10-18",
       "title": "財富結構決定誰變富",
