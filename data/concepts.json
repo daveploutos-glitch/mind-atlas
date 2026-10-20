@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-20-negative-asymmetry-game",
+      "date": "2026-10-20",
+      "title": "錯誤的遊戲",
+      "subtitle": "地位賽局常是負向不對稱——上行微不足道、下行卻是全部；職業與內容的上行很清楚，下行成本事前看不見",
+      "domain": "思維模型",
+      "tags": [
+        "地位賽局",
+        "負向不對稱",
+        "計分板",
+        "隱性成本",
+        "下行風險"
+      ],
+      "cover": {
+        "emoji": "⚖️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "你正在贏的，會不會根本是一場錯誤的遊戲？",
+        "image": "img/negative-asymmetry-game.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "錯誤的遊戲",
+          "body": "規則一訂，就算獎賞幾乎為零、風險是死亡，仍有人會競爭到把自己賠進去。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Maggiulli：桑拿賽／自由潛水是負向不對稱地位賽局。內容創作者把大型平台當人生藍圖，卻可能忽略關係。上行（錢、成功、影響力）清楚，下行事前看不見——為自我最大化多花的每一年，都是未來關係少掉的一年。Paul Tudor Jones：回望意義在「我愛過誰、誰愛過我」。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "不是反野心；是計分板設計。CFA／晉升／存錢率若變唯一計分板，健康與關係變殘差項，就是在玩錯遊戲。Caveat：單身可以是偏好而非失敗；真正要濾的是「清晰上行、隱藏下行」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫下目前追蹤的三個指標，各標「再拉高 20% 會犧牲什麼」；若答案是睡眠／健康／重要關係且無法接受，本週把該指標上限壓一檔。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "五年後回看，你希望主計分板是職稱證書、淨資產、身體狀態，還是「有誰因你在場而過得更好」？這週願意把哪一項從殘差項提成正式指標？"
+        }
+      ],
+      "source": {
+        "label": "Nick Maggiulli · Playing the Wrong Game",
+        "url": "https://ofdollarsanddata.com/playing-the-wrong-game/"
+      },
+      "related": [
+        "2026-10-19-wrong-game",
+        "2026-10-07-wrong-game",
+        "2026-10-20-morning-undisturbed-hour"
+      ]
+    },
+    {
+      "id": "2026-10-20-morning-undisturbed-hour",
+      "date": "2026-10-20",
+      "title": "清晨無干擾一小時",
+      "subtitle": "若想開始寫作或深想，先每天早上空出一小時，完全不接觸他人意見與干擾——現代生活最擅長搶走創意需要的空白",
+      "domain": "習慣決策",
+      "tags": [
+        "寫作",
+        "空白",
+        "無干擾",
+        "清晨",
+        "創意"
+      ],
+      "cover": {
+        "emoji": "🌅",
+        "gradient": [
+          "#f7f3ea",
+          "#ebe6dc"
+        ],
+        "hook": "創意需要空白；現代生活最擅長搶走它。",
+        "image": "img/morning-undisturbed-hour.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "清晨無干擾一小時",
+          "body": "開始寫作或深想之前，先問：你有沒有一段不被輸入打斷的時間？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Dan Koe：每天早上空出一小時，完全不接觸社群、訊息、手機。現代生活搶走的，正是創意需要的空白。重點不是發文平台，而是保護一段無輸入的思考時間。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "對你：不一定是發文——也可以是 CFA 錯題反思，或把今日簡報寫成三句自己的話。跟能量審計同一邏輯：峰值窗口要留給真正要複利的事。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "本週選三個早上，鬧鐘後先鎖一小時（或至少 25 分鐘）無手機書寫／錯題反思；干擾進來前先完成。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若你明天早上真有一小時無干擾，你會用來寫什麼——發文、CFA，還是只寫給自己的三句話？"
+        }
+      ],
+      "source": {
+        "label": "Dan Koe via NDTV",
+        "url": "https://www.ndtv.com/offbeat/american-author-says-modern-life-is-taking-away-space-for-creative-ideas-12205570"
+      },
+      "related": [
+        "2026-10-20-negative-asymmetry-game",
+        "2026-10-16-energy-audit",
+        "2026-10-16-five-minutes-uncomfortable"
+      ]
+    },
+    {
       "id": "2026-10-19-loud-liker",
       "date": "2026-10-19",
       "title": "大聲喜歡理論",
