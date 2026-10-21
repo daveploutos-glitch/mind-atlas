@@ -1,6 +1,15 @@
 {
   "days": [
     {
+      "date": "2026-10-21",
+      "title": "工匠式創作 × 淨值看中位，不看平均",
+      "summary": "artisan／經驗時代與想法博物館；以及 SCF 淨值平均被極端值拉高、對標看中位。",
+      "conceptIds": [
+        "2026-10-21-artisan-experience",
+        "2026-10-21-median-vs-mean-net-worth"
+      ]
+    },
+    {
       "date": "2026-10-20",
       "title": "錯誤的遊戲 × 清晨無干擾一小時",
       "summary": "負向不對稱地位賽局與隱藏下行；以及保護清晨無輸入思考時間。",

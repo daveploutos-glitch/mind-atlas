@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-21-artisan-experience",
+      "date": "2026-10-21",
+      "title": "工匠式創作",
+      "subtitle": "網紅為注意力、個人品牌為漏斗、工匠為作品庫——真正稀缺的是只有你能說出的觀點；社群只是補貼作品的管道",
+      "domain": "思維模型",
+      "tags": [
+        "工匠",
+        "經驗時代",
+        "想法博物館",
+        "觀點",
+        "作品庫"
+      ],
+      "cover": {
+        "emoji": "🏛️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "下一階段屬於工匠：作品在前，注意力是副產物。",
+        "image": "img/artisan-experience.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "工匠式創作",
+          "body": "若終究要有被動收入與時間自主，該朝哪一種「被看見」走？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Koe 三類創作者分水嶺是「什麼在擁有你」——網紅（社群＝工作，優化便宜多巴胺）、個人品牌（社群為變現漏斗）、工匠／artisan（社群補貼作品庫：書、演講、研究、能活過演算法的想法）。真正稀缺：由經歷鍛出的視角，AI 難複製。做法：想法博物館 → 對齊已驗證結構 → 五角度重寫 → 用回覆當訊號 → 再做成指南或小產品。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "接住「玩錯遊戲」——粉絲數是地位賽；artisan 換成可累積作品。Mind Atlas 已是小型博物館。Caveat：現階段優先 CFA、20% 儲蓄、鍛鍊；練捕捉與改寫，不是立刻開漏斗。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "備忘錄開「想法博物館」：寫一句「我同意／不同意，因為……」；再寫「若講給兩年前的自己，我會怎麼說」。先捕捉，不必發佈。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若五年後有一個活得比演算法久的作品，你希望它承載金錢、身體，還是「怎樣做決定」的觀點？"
+        }
+      ],
+      "source": {
+        "label": "Dan Koe · The influencer is dead. The Age of Experience is here.",
+        "url": "https://letters.thedankoe.com/p/the-influencer-is-dead-the-age-of"
+      },
+      "related": [
+        "2026-10-20-negative-asymmetry-game",
+        "2026-10-20-morning-undisturbed-hour",
+        "2026-10-21-median-vs-mean-net-worth"
+      ]
+    },
+    {
+      "id": "2026-10-21-median-vs-mean-net-worth",
+      "date": "2026-10-21",
+      "title": "淨值看中位，不看平均",
+      "subtitle": "美國家庭淨值平均約 123 萬、中位約 21.6 萬；排除自住房後中位約 6.9 萬——平均被極端值拉高，對標看中位與分位",
+      "domain": "商機趨勢",
+      "tags": [
+        "淨值",
+        "中位數",
+        "平均數",
+        "SCF",
+        "房產"
+      ],
+      "cover": {
+        "emoji": "📊",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "財富討論裡的「平均」，常常在說別人，不是說你。",
+        "image": "img/median-vs-mean-net-worth.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "淨值看中位，不看平均",
+          "body": "聽到「平均淨值」時，先問：這是平均，還是中位？有沒有把房子算進去？"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Maggiulli 用 Fed 2025 SCF：美國家庭淨值平均約 123 萬美元，中位約 21.6 萬；排除自住房淨值後中位再掉到約 6.9 萬。平均被極端值拉高。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "不是叫你焦慮排名，而是對標時看中位與分位，比看「平均有錢人」清醒。接續資產結構討論：持有什麼比跟平均比較更重要。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "打開自己粗估淨值，標兩行：含住房／不含住房；再標你對齊的是哪個年齡段的「中位」想像，而不是平均新聞標題。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你平時聽財富數字時，比較常被「平均」帶走，還是已經習慣先問中位？"
+        }
+      ],
+      "source": {
+        "label": "Nick Maggiulli · What is the Average Net Worth by Age?",
+        "url": "https://ofdollarsanddata.com/average-net-worth-by-age/"
+      },
+      "related": [
+        "2026-10-21-artisan-experience",
+        "2026-10-18-asset-mix-wealth",
+        "2026-10-17-who-got-richer"
+      ]
+    },
+    {
       "id": "2026-10-20-negative-asymmetry-game",
       "date": "2026-10-20",
       "title": "錯誤的遊戲",
