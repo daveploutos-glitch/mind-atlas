@@ -1,6 +1,124 @@
 {
   "concepts": [
     {
+      "id": "2026-10-22-overwhelm-protocol",
+      "date": "2026-10-22",
+      "title": "過載協議",
+      "subtitle": "過載時依序執行五步——先動身體、整理視覺場、寫 Weekly Win Card、造五分鐘雪球、再推倒一堵牆；離「稍微好一點」永遠只差一個正向動作",
+      "domain": "習慣決策",
+      "tags": [
+        "過載",
+        "Win Card",
+        "雪球",
+        "深工",
+        "重置"
+      ],
+      "cover": {
+        "emoji": "🌡️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "無論洞多深，你永遠離「稍微好一點」只差一個正向動作。",
+        "image": "img/overwhelm-protocol.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "過載協議",
+          "body": "工作、考試、健身、儲蓄同時壓上來時，別空喊自律——先走一套會暖機的順序。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Bloom 五步依序：①先動身體（散步 15–60 分重置神經系統）②整理視覺場 5–10 分（亂物＝開迴路）③Weekly Win Card（週五覺得贏了的 5–7 件有肉的事）④造雪球（30–60 分連續關 10+ 個五分鐘內可關的小事）⑤推倒一堵牆（90–120 分深工完成 Win Card 上一項）。順序：生理→環境→優先序→動能→深工。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "Win Card 若變 7 件罪惡清單會反噬；同時扛本業／CFA／身材／儲蓄時，一週真正的牆大概 2–3 堵，其餘進雪球。健身可兼當過載重置，一石二鳥。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫本週 Win Card 最多 5 項，至少含：一項 CFA 可驗收產出、訓練次數、一件系統／儲蓄小事；其餘丟進五分鐘雪球清單。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若這週只能推倒一堵牆，你會選 CFA、訓練，還是先鎖死儲蓄／自動化？為什麼？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Overwhelm Protocol",
+        "url": "https://www.sahilbloom.com/newsletter/the-overwhelm-protocol"
+      },
+      "related": [
+        "2026-10-16-energy-audit",
+        "2026-10-16-five-minutes-uncomfortable",
+        "2026-10-22-net-worth-by-age"
+      ]
+    },
+    {
+      "id": "2026-10-22-net-worth-by-age",
+      "date": "2026-10-22",
+      "title": "按年齡看淨值中位",
+      "subtitle": "美國家庭平均淨值約 123 萬、中位約 21.6 萬；按年齡看中位更貼近現實——基準有用，賽道是你自己的",
+      "domain": "商機趨勢",
+      "tags": [
+        "淨值",
+        "年齡",
+        "中位數",
+        "房屋權益",
+        "基準"
+      ],
+      "cover": {
+        "emoji": "📏",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "基準有用，賽道是你自己的。",
+        "image": "img/net-worth-by-age.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "按年齡看淨值中位",
+          "body": "別只拿「平均有錢人」當尺子；先看同齡中位，再問房子佔了多少。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Maggiulli／Fed 2025 SCF：整體平均約 123 萬、中位約 21.6 萬。按年齡中位例如 30–34 約 6.4 萬、35–39 約 12.7 萬。去掉房屋後整體中位約 6.9 萬；典型 35+ 家庭淨值裡房屋權益常佔 55%–70%，同齡前 20% 富有家庭約僅 15%–25%。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "重點不是跟美國同齡比輸贏，而是持續儲蓄與時間，比盯著別人的房子與帳面更重要。接續昨日「看中位不看平均」。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "標出你所在年齡帶的「中位想像」與「含／不含住房」兩行；本週只問：我的儲蓄自動化是否仍在跑，而不是我有沒有追上某國平均。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你對齊財富時，比較常盯別人的房子與帳面，還是盯自己的儲蓄率與時間？"
+        }
+      ],
+      "source": {
+        "label": "Nick Maggiulli · What is the Average Net Worth by Age?",
+        "url": "https://ofdollarsanddata.com/average-net-worth-by-age/"
+      },
+      "related": [
+        "2026-10-21-median-vs-mean-net-worth",
+        "2026-10-22-overwhelm-protocol",
+        "2026-10-18-asset-mix-wealth"
+      ]
+    },
+    {
       "id": "2026-10-21-artisan-experience",
       "date": "2026-10-21",
       "title": "工匠式創作",
