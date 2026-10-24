@@ -1,6 +1,126 @@
 {
   "concepts": [
     {
+      "id": "2026-10-24-locksmith-paradox",
+      "date": "2026-10-24",
+      "title": "鎖匠悖論",
+      "subtitle": "同樣打開門鎖、同樣一百元，一小時覺公平、兩分鐘覺貴——我們用可見投入當品質代理，卻懲罰了效率",
+      "domain": "思維模型",
+      "tags": [
+        "鎖匠悖論",
+        "努力捷思",
+        "效率",
+        "定價",
+        "精通",
+        "可見投入"
+      ],
+      "cover": {
+        "emoji": "🔑",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "精通，就是把努力藏進看不見的地方。",
+        "image": "img/locksmith-paradox.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "鎖匠悖論",
+          "body": "產出相同，可見投入一變，我們對價值的感覺就翻轉——這在 AI 時代會更常見。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Sahil Bloom：Picasso 三十秒素描，定價的是三十年精通。Ariely 鎖匠思想實驗——同是一百元、同是開鎖，一小時覺得公平、兩分鐘覺得不合理。2004 努力捷思：同一首詩，被告知花十八小時者，評為品質更高。悖論是：效率被懲罰，可見掙扎被獎勵；AI 加速「投入—產出」錯位。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "職場常見：長工時獲讚、四十頁簡報獲信、永遠在線獲認可；深度工作、快速解題反而被低估。個人定價、領導考核、組織文化若盯「看起來有多忙」，就會系統性獎勵表演投入。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一件本週要交付的事，寫下「產出定義」一句（可驗收結果），再寫「我不拿什麼當代理指標」（工時／頁數／在線時長）。對別人交付亦然：先問結果，再問過程。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若把努力完全藏進看不見處、只留下乾淨產出，你目前的環境會獎勵你，還是懷疑你？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · The Locksmith Paradox (Curiosity Chronicle)",
+        "url": "https://www.sahilbloom.com/newsletter/the-locksmith-paradox"
+      },
+      "related": [
+        "2026-10-18-jevons-paradox-ai",
+        "2026-10-21-artisan-experience",
+        "2026-10-23-long-term-rewrites-short"
+      ]
+    },
+    {
+      "id": "2026-10-24-strong-el-nino-second-order",
+      "date": "2026-10-24",
+      "title": "強聖嬰的二階效應",
+      "subtitle": "WMO：熱帶太平洋海表溫十一月至一月季節距平或約 +3.8°C；一階是區域極端風雨，二階才碰到糧食、能源、保險與通脹預期",
+      "domain": "世界事",
+      "tags": [
+        "聖嬰",
+        "二階效應",
+        "氣候",
+        "糧食",
+        "通膨",
+        "保險"
+      ],
+      "cover": {
+        "emoji": "🌊",
+        "gradient": [
+          "#f3efe6",
+          "#ebe6df"
+        ],
+        "hook": "低頻高衝擊：偶爾掃一眼，不必日日焦慮。",
+        "image": "img/strong-el-nino-second-order.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "強聖嬰的二階效應",
+          "body": "極端氣候新聞很多；對長期儲蓄者，真正要看的是它如何改寫價格與風險定價。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "WMO 季節展望：El Niño 可能極強，Niño 3.4 海表溫距平在 2026 年 11 月–2027 年 1 月季節平均約 +3.8°C（峰值約在 12 月）。一階：各地乾旱／暴雨／高溫機率位移。二階：糧食與能源價格波動、保險賠付與保費、區域通脹預期——這些才更靠近資產負債表。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "對長期儲蓄者，這是低頻、高衝擊的背景噪聲：不必每日追衛星圖，但季度檢視時可問——食品／能源通脹、再保與災害保險、受影響出口國，有沒有改你的通膨或現金緩衝假設？"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "在筆記寫兩行：「一階我不管的細節」與「二階我願意每季掃一眼的指標」（例如食品通膨、能源、相關保險／再保新聞）。把後者放進下一次季度檢視清單，而不是今天的待辦。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你對氣候新聞的反應，比較像「每日焦慮輸入」，還是「低頻背景、只在改假設時才打開」？"
+        }
+      ],
+      "source": {
+        "label": "WMO · Global Seasonal Climate Update (NDJ 2026)",
+        "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ndj2026"
+      },
+      "related": [
+        "2026-10-08-headline-forecast",
+        "2026-10-17-who-got-richer",
+        "2026-10-24-locksmith-paradox"
+      ]
+    },
+    {
       "id": "2026-10-23-long-term-rewrites-short",
       "date": "2026-10-23",
       "title": "長期思維改寫短期",
