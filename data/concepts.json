@@ -1,6 +1,132 @@
 {
   "concepts": [
     {
+      "id": "2026-10-26-winter-arc",
+      "date": "2026-10-26",
+      "title": "冬日弧線／時間地標",
+      "subtitle": "十月一日至十二月三十一日的九十二日鎖定：自製時間地標能把你送到起跑線；能否撐過第十一週，取決於每週回報與室內版預設",
+      "domain": "習慣決策",
+      "tags": [
+        "冬日弧線",
+        "時間地標",
+        "起跑線",
+        "停止規則",
+        "每週回報",
+        "室內版",
+        "習慣",
+        "目標"
+      ],
+      "cover": {
+        "emoji": "🗓️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "地標只送你到起跑線；第十一週才考驗設計。",
+        "image": "img/winter-arc.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "冬日弧線／時間地標",
+          "body": "Winter Arc：十月一日至十二月三十一日、九十二日鎖定。潮流把十月當新年——研究說這部分成立；另兩條病毒規則，最好丟掉。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Dai、Milkman 與 Riis（2015）：把某日框成新篇章起點，會提高目標啟動意願；機制是心理上與「過去不夠好的自己」切開。Hennecke 與 Converse（2017）：人願意犧牲昂貴計畫一整週，只為換一個「邊界之後」的乾淨起跑日。地標可以自製——天空在十月一日並無異象，約定本身就是邊界。但地標只送到起跑線：Norcross 追蹤新年決心，一週後約仍有百分之七十七、兩年後約百分之十九。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "丟掉兩條常見規則。（一）秘密身份鎖定——別宣告「我正在變成誰」；改成讓一人每週看見完成次數，缺席才有人看見。（二）在最差天氣季節硬上最難體能目標——Tucker 與 Gilliland（2007）：活動量隨壞天氣下降；預設改為室內版，戶外只作加分。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "寫四行：（1）邊界日起點與結束；（2）你要與之切開的「過去自己」一段；（3）室內／不受天氣影響的預設版本；（4）每週回報給誰看數字。另寫一月一日是陷阱（准許停）還是第二次新鮮開始。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "十一月二十四日、天氣差、兩週沒人問過你的次數時——你的設計裡，還剩下什麼會讓你繼續？"
+        }
+      ],
+      "source": {
+        "label": "Future You · The Winter Arc: What the 92-Day Lock-In Gets Right",
+        "url": "https://futureyou.me/blog/winter-arc"
+      },
+      "related": [
+        "2026-10-25-maxxing-trap",
+        "2026-10-23-long-term-rewrites-short",
+        "2026-10-22-overwhelm-protocol",
+        "2026-10-16-energy-audit"
+      ]
+    },
+    {
+      "id": "2026-10-26-ai-decision-tax",
+      "date": "2026-10-26",
+      "title": "AI 決策稅",
+      "subtitle": "生成變便宜，審核變昂貴：每個輸出都逼你接受／修改／重跑／丟棄——保護決策預算，勝過再開一個 agent",
+      "domain": "思維模型",
+      "tags": [
+        "AI",
+        "決策稅",
+        "審核成本",
+        "夠好",
+        "決策預算",
+        "brain fry",
+        "注意力",
+        "判斷力"
+      ],
+      "cover": {
+        "emoji": "⚖️",
+        "gradient": [
+          "#f3efe6",
+          "#e8ebe6"
+        ],
+        "hook": "省下的是時間；收走的是決策。",
+        "image": "img/ai-decision-tax.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "AI 決策稅",
+          "body": "一天「輕鬆」的 AI 工作，為何比長跑更累？因為你整日在做同一件事：決定——接受、修改、重跑，或丟棄。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "生成成本急降，審核成本上升。每個看似完成的輸出，都丟給你一個分叉。BCG「AI brain fry」：高強度監督 AI 的工作者，回報更多心智疲勞與資訊過載；Microsoft／CMU 則見努力從蒐集轉向核實，且愈信任 AI、批判思考愈少——疲勞→少檢查→更信任→更少檢查。還有棘輪：產能十倍，期待也十倍。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "十個 agent 並行、百次上下文切換：表面上在「用 AI」，實際上在繳核准稅與切換稅。三個版本聽起來慷慨，其實是三份評估作業。真正值錢的不是省下的分鐘，而是省下的決策。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "提示前先寫一句「什麼叫夠好」。只要一版；最多兩輪，之後手改或自己寫。並行 AI 對話上限兩個。重要決策放在核准稅抽乾之前。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "若工具還你兩小時，卻換走四十個決策與一百次切換——你是贏了，還是用最貴的資源去換最便宜的時間？"
+        }
+      ],
+      "source": {
+        "label": "Leo Alexandru · The Decision Tax in AI",
+        "url": "https://leoalexandru.substack.com/p/the-decision-tax-in-ai"
+      },
+      "related": [
+        "2026-10-25-employment-friendly-ai",
+        "2026-10-24-locksmith-paradox",
+        "2026-10-25-maxxing-trap",
+        "2026-10-06-ai-procrastination"
+      ]
+    },
+    {
       "id": "2026-10-24-locksmith-paradox",
       "date": "2026-10-24",
       "title": "鎖匠悖論",
