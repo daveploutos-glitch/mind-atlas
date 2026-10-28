@@ -3046,6 +3046,133 @@
         "2026-10-23-long-term-rewrites-short",
         "2026-10-24-locksmith-paradox"
       ]
+    },
+    {
+      "id": "2026-10-28-execution-over-potential",
+      "date": "2026-10-28",
+      "title": "潛力不值錢，執行才值錢",
+      "subtitle": "離開學校與第一份工作後，世界翻轉：潛力不能解決客戶問題、也不能付帳單；設計生活提高碰撞密度，用行動重塑大腦與能動性",
+      "domain": "思維模型",
+      "tags": [
+        "執行",
+        "潛力",
+        "碰撞密度",
+        "能動性",
+        "pro-luck",
+        "皮格馬利翁效應",
+        "行動",
+        "人生設計"
+      ],
+      "cover": {
+        "emoji": "🛤️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "潛力會過期；計分的是執行。路是邊走邊出現的。",
+        "image": "img/execution-over-potential.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "潛力不值錢，執行才值錢",
+          "body": "年輕時人人看重你的潛力；某天世界翻轉——客戶、老闆、家庭要的是執行。潛力本身解決不了問題，也付不了帳單。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Sahil Bloom 對二十二歲自己的直言：別再執著潛力，去做那件事。第二，把人生優化成高碰撞密度——轉折往往來自偶然相遇與你身處的房間；碰撞無法排程，卻是環境、身邊的人與持續輸出的副產品，屬 pro-luck。第三，神經可塑性只回應行動：像你想成為的人那樣做；能動性是「人生不是發生在你身上——是你發生在人生上」。不知從何開始，先連續三十天早起並運動。第四，皮格馬利翁效應：你會升到（或跌到）周圍期望的高度。第五，把老派基本功做極好：準時、可靠、帶方案而非戲劇。魯米：你開始走在路上，路就會出現。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "活動上一場對話變成合夥人；咖啡店聽到的一句話種下念頭；因為剛好在場被拉進機會。相反：只優化履歷與「潛力故事」、卻少進房間、少輸出，碰撞密度接近零。周圍若不斷潑冷水，野心也會被調低——人選房間，比再寫一版計劃更值錢。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一件你已拖延的「該做的事」，今天完成最小可交付版本（一封郵件、一段草稿、一次外展）。另排一場高碰撞場景（活動、共學、公開輸出其一）。若能動性卡住：承諾接下來三十天早起並運動，作為大腦重接的起點。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近花最多時間的，是打磨潛力敘事，還是提高執行與碰撞密度？若只能改一項環境或人選，哪一項最能抬高期望與機會？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · Brutally Honest Advice to My 22-Year-Old Self",
+        "url": "https://www.sahilbloom.com/newsletter/brutally-honest-advice-to-my-22-year-old-self"
+      },
+      "related": [
+        "2026-10-27-choking-under-pressure",
+        "2026-10-26-winter-arc",
+        "2026-10-25-maxxing-trap",
+        "2026-10-24-locksmith-paradox",
+        "2026-10-16-energy-audit",
+        "2026-10-21-artisan-experience",
+        "2026-10-02-cognitive-capital"
+      ]
+    },
+    {
+      "id": "2026-10-28-post-meal-walk",
+      "date": "2026-10-28",
+      "title": "飯後短走",
+      "subtitle": "三節約十五分鐘的飯後步行，對全日血糖控制優於一次連續四十五分鐘；餐後不久運動尤其能鈍化餐後血糖高峰——選一餐，飯後走十至十五分鐘即可",
+      "domain": "健康",
+      "tags": [
+        "飯後步行",
+        "血糖",
+        "代謝",
+        "健康習慣",
+        "運動",
+        "習慣"
+      ],
+      "cover": {
+        "emoji": "🚶",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "不必加一整堂課：飯後十分鐘短走，就能幫血糖。",
+        "image": "img/post-meal-walk.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "飯後短走",
+          "body": "穩定餐後血糖，不一定要加一堂完整運動課——把步行拆到飯後，往往更對症。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "DiPietro 等（2013）：在葡萄糖調節較弱的年長者中，三節約十五分鐘的飯後步行，對全日血糖控制優於一次連續四十五分鐘步行。Engeroff 等（Sports Medicine 統合分析）：餐後不久運動，尤其有效於鈍化餐後血糖高峰。機制直覺：肌肉在醣類剛入血時接手代謝，比空腹長走更貼近「尖峰」問題。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "午餐後在街區走一圈十分鐘，往往比週末補一場長走更能壓住當日餐後曲線。邊界：這是血糖管理工具，不是完整體能計劃的替代；有醫療限制者先遵醫囑。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "今天選一餐（午餐或晚餐），飯後立刻走十至十五分鐘——手機計步或定時即可。連續三天後，留意是否較少出現飯後昏沉。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最容易插入飯後短走的是哪一餐？若只能改一餐，哪一餐的餐後昏沉或甜食衝動最明顯？"
+        }
+      ],
+      "source": {
+        "label": "DiPietro et al. 2013 (PubMed 23761134); Engeroff et al. Sports Medicine meta",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23761134/"
+      },
+      "related": [
+        "2026-10-15-daily-mvpa-sleep",
+        "2026-10-07-muscle-aging",
+        "2026-10-16-energy-audit",
+        "2026-10-16-five-minutes-uncomfortable"
+      ]
     }
   ]
 }
