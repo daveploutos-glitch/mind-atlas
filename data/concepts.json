@@ -1,6 +1,132 @@
 {
   "concepts": [
     {
+      "id": "2026-10-30-overjustification-beginner",
+      "date": "2026-10-30",
+      "title": "再當一次初學者",
+      "subtitle": "預期獎勵把「我愛做」改寫成「為獎賞做」——過度合理化效應；解法是成為意外獎勵組，並再當一次初學者，讓有些事可以只是存在",
+      "domain": "思維模型",
+      "tags": [
+        "過度合理化",
+        "內在動機",
+        "初學者",
+        "獎勵預期",
+        "玩心",
+        "寫作",
+        "變現",
+        "計分板"
+      ],
+      "cover": {
+        "emoji": "🌱",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "獎賞本身未必傷動機；傷的是對獎賞的預期。",
+        "image": "img/overjustification-beginner.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "再當一次初學者",
+          "body": "把熱愛變成全職，以為時間更多輸出更好——結果寫作成了工作：刷指標、避開低流量題材，真實感被抽乾。問題往往不是努力不夠，而是預期獎勵改寫了動機。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "Lepper、Greene、Nisbett（1973，Bing Nursery School）：先找出愛畫畫的幼兒，分成預期獎勵、意外獎勵、無獎勵三組；獎品相同，只有「事先知道會得獎」這一組，日後自由遊戲繪畫時間約減半，另兩組不變。過度合理化效應：內在敘事從「我畫因為我愛畫」變成「我畫為了那張獎狀」；預期獎勵組作品品質也被評得較低。傷的不是獎賞本身，是對獎賞的預期。Sahil Bloom 的解法：成為意外獎勵組——為自己寫、少盯指標、把商業營運與創作行為分開；再當一次初學者（跑團、鋼琴、煮飯……）。有些事可以只是存在，不必每樣嗜好都變現、優化、變成專案。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "愛讀的書變成年度冊數；愛跑的路變成 Strava 配速；愛做的手工變成必須維持的副業帳號。寫作亦然：為互動而寫，等於孩子為獎狀而畫——主題迴避、真實感下降。同一張獎狀給兩組：只有「事先預期」的那組興趣被殺。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "選一件已被指標綁住的事，寫三條邊界：（1）觀眾為一（為自己做）；（2）本週不查的指標清單；（3）創作行為與結果之間的隔離（延後看數據，或交給別人彙整）。另選一件「不許變現／不許優化」的初學者活動，本週只玩一次。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近哪一件本來愛做的事，已悄悄變成「為獎狀而做」？若再當一次初學者，哪一件事你可以允許它「什麼都不用成為」？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom · I Think You Need to Become a Beginner Again（2026-10-30）",
+        "url": "https://www.sahilbloom.com/newsletter/i-think-you-need-to-become-a-beginner-again"
+      },
+      "related": [
+        "2026-10-25-maxxing-trap",
+        "2026-10-29-goal-conflict",
+        "2026-10-28-execution-over-potential",
+        "2026-10-24-locksmith-paradox",
+        "2026-10-21-artisan-experience"
+      ]
+    },
+    {
+      "id": "2026-10-30-train-while-easy",
+      "date": "2026-10-30",
+      "title": "容易的時候練",
+      "subtitle": "在容易的日子練，好在艱難時有餘量；別等壓力來了才開始堆韌性",
+      "domain": "習慣決策",
+      "tags": [
+        "訓練",
+        "韌性",
+        "餘量",
+        "提前準備",
+        "習慣",
+        "壓力",
+        "恢復"
+      ],
+      "cover": {
+        "emoji": "🏋️",
+        "gradient": [
+          "#f3efe6",
+          "#e6ebe8"
+        ],
+        "hook": "容易時練，艱難時才有餘量。",
+        "image": "img/train-while-easy.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "容易的時候練",
+          "body": "「Train while it's easy so you're ready when it's hard.」——在日子還好過時練，等艱難來臨時你才有餘量；別把韌性留到壓力已經上門才開始堆。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "James Clear（3-2-1，2026-10-29）：容易的時候練，是為了艱難的時候有備。韌性不是危機瞬間長出來的，而是平日重複練習累積的儲備。等壓力來了才開始練，等於考試當天才翻書——技術與心理寬裕都來不及成形。原則是把「好天氣」當成訓練窗，而不是放假窗。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "專案平穩時仍做週回顧與小壓力演練；身體無恙時維持睡眠與步行；人際順暢時練習難對話。相反：只在 Deadline 前才整理流程、只在病倒後才談恢復——那時餘量已見底。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "列出你預期下季可能變難的一域（工作、健康、關係其一）。在「目前仍容易」的前提下，選一項最小訓練：今天做完一次（十五分鐘內），並排進下兩週的固定節奏。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你現在哪一塊日子還算容易、卻幾乎沒在練？若三個月後它變難，你希望那時已經有什麼餘量？"
+        }
+      ],
+      "source": {
+        "label": "James Clear · 3-2-1 Newsletter（2026-10-29）",
+        "url": "https://jamesclear.com/3-2-1/october-29-2026"
+      },
+      "related": [
+        "2026-10-27-choking-under-pressure",
+        "2026-10-26-winter-arc",
+        "2026-10-23-long-term-rewrites-short",
+        "2026-10-28-post-meal-walk"
+      ]
+    },
+    {
       "id": "2026-10-29-goal-conflict",
       "date": "2026-10-29",
       "title": "目標衝突",
