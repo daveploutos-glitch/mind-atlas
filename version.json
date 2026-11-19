@@ -1,6 +1,6 @@
 {
-  "version": "20261118091007-single-point",
-  "built": "2026-11-18 09:10",
+  "version": "20261119091855-spend-based",
+  "built": "2026-11-19 09:18",
   "tz": "HKT",
-  "hash": "single-point"
+  "hash": "spend-based"
 }
