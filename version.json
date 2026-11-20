@@ -1,6 +1,6 @@
 {
-  "version": "20261119091855-spend-based",
-  "built": "2026-11-19 09:18",
+  "version": "20261120091721-silent-consensus",
+  "built": "2026-11-20 09:17",
   "tz": "HKT",
-  "hash": "spend-based"
+  "hash": "silent-consensus"
 }
