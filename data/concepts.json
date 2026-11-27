@@ -1,6 +1,129 @@
 {
   "concepts": [
     {
+      "id": "2026-11-27-prayed-for-complain",
+      "date": "2026-11-27",
+      "title": "你祈求過的，後來變成你抱怨的",
+      "subtitle": "Sahil Bloom（The Curiosity Chronicle，2026-11-25）寫道：享樂適應會把已經實現的願望變成新的期望地板，再變成抱怨，除非你有意把它們認回來。感恩節的提問是：從前的你祈求過什麼，是你今天視為理所當然的？他引一段英文詩，寫多少人為了建造空中樓閣，任由眼前真正的房子年久失修。野心並沒有錯；錯的是犧牲了對當下的覺察。別讓對「更多」的追求，讓你看不見「已經足夠」的美。享樂適應是心理機制，不是道德缺陷；「足夠的美」也不等於叫人停止嚮往。",
+      "domain": "思維模型",
+      "tags": [
+        "享樂適應",
+        "期望",
+        "感恩",
+        "覺察",
+        "足夠",
+        "慾望",
+        "習慣"
+      ],
+      "cover": {
+        "emoji": "🏠",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "空中的城堡總在招手；真正危險的，是任由眼前的房子倒塌。",
+        "image": "img/prayed-for-complain.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "你祈求過的，後來變成你抱怨的",
+          "body": "昨天還讓你興奮的新現實，今天就成了期望的地板。你曾經祈求的東西，一不留神，就會變成你開口抱怨的東西。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "文章標題是〈The Things We Prayed For〉（網站網址 slug 卻是 you，以正文為準），寫於 2026 年 11 月 25 日，開頭說「明天是美國的感恩節」——2026 年美國感恩節是 11 月 26 日，日期一致。家中餐後的年終提問，原文是：What did your younger self pray for that you take for granted today？（從前的你祈求過什麼，是你今天視為理所當然的？）Bloom 用享樂適應來解釋：即使重大的正向事件，人也會漂回基線；昨天還讓你興奮的新現實，成了今天期望的地板；你此刻對「更多」的定義，會變成明天的「還不夠」。舉例包括：曾拼命想要的工作變成怨恨，渴望的房子變成嫌小，盼了很久的假期變成壓力，以及「你想擁有的那個人，變成你想改變的那個人」。可轉移的模型是：願望一旦兌現，會很快變成新地板；要把它認回來，而不是只加碼下一個城堡。他自己也寫：野心、做大夢、為未來建設都沒有錯；錯的是以犧牲對當下的珍惜為代價。他的警句是：Never let the quest for more distract you from the beauty of enough（別讓對「更多」的追求，讓你從「已經足夠」的美上分心）。文中「人生最危險的陷阱」是修辭上的加重，不是已被證明的定律。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "2021 年 1 月他滿 30 歲：有一份名頭很好聽的工作、一棟房子、一輛很酷的車；但與妻子正處於兩年不孕的掙扎，住在加州，距離雙方家人三千英里，追逐一套並非出於自己的成功定義，喝酒過多、睡眠過少，對未來處於持續的緊繃。2025 年 1 月他滿 34 歲：處女作即將由 Penguin Random House 出版，身體比以往更健康，已搬到東岸、離家人更近，並有了一個健康的兒子。他寫：自己正活在最黑暗時刻所祈求的生活裏。同年 1 月一個下午，他在書房專心準備新書發行，當時兩歲的兒子 Roman 衝進來，爬上桌子和沙發，跳來跳去，把東西撞翻。他腦中閃過一連串抱怨。隨後看見桌上的照片：那是他親吻出生才幾天、正在熟睡的兒子。他想起 2021 年那兩年裏，自己幾乎每晚都在祈求有一天能有一個健康的孩子——而此刻，他正在抱怨自己曾經祈求的東西。他的原句是現在式：The things you pray for become the things you complain about. If you let them.（你所祈求的，會變成你所抱怨的。若你放任的話。）他說在第一本書的序裏引用了 Jean de La Fontaine 的詩；所引的英文是：「How many folks, in country and in town, / Neglect their principal affair; / And let, for want of due repair, / A real house fall down, / To build a castle in the air?」這段英文與 Charles Denis 1754 年《Select Fables》裏、對拉封丹〈掉進井裏的占星者〉所作節譯的結語相合，並不是拉封丹法文原詩的逐句對譯。卡片把出處寫清楚，不把這幾行英文當成拉封丹的原文。2026 年這個感恩節，Roman 已經四歲，仍會衝進書房、爬上桌子沙發、把東西撞翻；聲音並沒有變小，但 Bloom 聽見的方式不同了。從 2025 年 1 月的「當時兩歲」到 2026 年 11 月的四歲，時間線說得通。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "用那句提問寫給五年前的自己，列出三件你曾經祈求、如今已擁有的事。再從其中挑一件，用一句話寫下你習慣的抱怨或忽視。不要急著許下一個願望，先看清眼前這棟房子。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你此刻最常抱怨或最容易忽略的那件事，是不是五年前的你曾經祈求過的？"
+        }
+      ],
+      "source": {
+        "label": "Sahil Bloom，〈The Things We Prayed For〉，The Curiosity Chronicle（2026-11-25）",
+        "url": "https://www.sahilbloom.com/newsletter/the-things-you-prayed-for"
+      },
+      "related": [
+        "2026-11-26-eight-billion-wishmakers",
+        "2026-11-21-raise-your-floor",
+        "2026-11-24-locus-of-control",
+        "2026-10-02-low-expectations",
+        "2026-11-16-pebble-paradox"
+      ]
+    },
+    {
+      "id": "2026-11-27-dimorphos-crater",
+      "date": "2026-11-27",
+      "title": "動能撞擊之後：Dimorphos 的運動場撞擊坑",
+      "subtitle": "歐洲太空總署（ESA，2026-11-25）報道：Hera 太空船已抵達 2022 年美國國家航空暨太空總署（NASA）DART 任務撞擊的雙小行星系統。Dimorphos 直徑約 151 公尺，環繞直徑約 730 公尺的 Didymos；兩者目前距地球約 1.935 億公里。DART 於 2022 年 9 月 26 日把 Dimorphos 的軌道周期縮短了 33 分鐘，幅度大於原先預期。地球望遠鏡量到了軌道變化，卻看不到星體本身發生了什麼。Hera 同時看到三件事：被撞的那一面被壓平成橫跨整顆小行星、約運動場大小的撞擊坑；其餘區域的巨石分布幾乎與 2022 年影像相同；Dimorphos 已在軌道上劇烈翻滾，雙星周圍環繞著數以百計先前未知、只有數公尺大的巨石。改變軌道，並不等於理解你打中的那個物體。",
+      "domain": "世界事",
+      "tags": [
+        "小行星",
+        "行星防禦",
+        "Hera",
+        "DART",
+        "撞擊",
+        "ESA",
+        "太空"
+      ],
+      "cover": {
+        "emoji": "☄️",
+        "gradient": [
+          "#f4efe6",
+          "#ebe4dc"
+        ],
+        "hook": "軌道被改寫了 33 分鐘；要讓動能撞擊成為可依賴的行星防禦，還得看清楚撞擊之後那團凌亂的現場。",
+        "image": "img/dimorphos-crater.webp"
+      },
+      "slides": [
+        {
+          "type": "cover",
+          "title": "動能撞擊之後：Dimorphos 的運動場撞擊坑",
+          "body": "DART 證明可以改寫小行星的軌道。Hera 現在要回答的是：被打中的那顆星，本身變成了什麼樣子。"
+        },
+        {
+          "type": "core",
+          "title": "核心",
+          "body": "ESA 2026 年 11 月 25 日的新聞稿確認，Hera 已抵達這個雙小行星系統。須把兩個長度分開：Dimorphos 直徑約 151 公尺，它所環繞的主星 Didymos 直徑約 730 公尺；同日 ESA 影像說明寫，Dimorphos 環繞 Didymos 的平均距離約為 1 公里——不是 730 公尺。該系統目前距地球約 1.935 億公里。2022 年 9 月 26 日，NASA 的 DART 故意撞擊 Dimorphos，使其軌道周期縮短 33 分鐘，「遠大於原先預測」。地球上的望遠鏡量到了軌道變化，但「Dimorphos 本身到底發生了什麼」仍未解答。Hera 首席研究員 Patrick Michel 說，科學家曾爭論它是留下了撞擊坑、改變了形狀，還是維持原樣；「出乎我們意料，答案竟是三件事同時成立」。被 DART 打中的那一面，被壓平成一個相當於運動場大小、橫跨整顆小行星寬度的撞擊坑；其餘區域的巨石場看起來仍與 DART 2022 年的影像一樣。任務科學家 Michael Kueppers 說，後續影像顯示，這次撞擊已讓 Dimorphos 在軌道上劇烈翻滾。另一個驚喜是：兩顆小行星周圍環繞著數以百計、只有數公尺大的飛行巨石。Hera 目前在距離約 25 至 30 公里處觀測，12 月計劃接近到約 13 公里，2027 年 1 月計劃釋放兩顆鞋盒大小的立方衛星 Juventas 與 Milani。"
+        },
+        {
+          "type": "example",
+          "title": "例子",
+          "body": "任務經理 Ian Carnelli 在柏林自然博物館的恐龍廳公布首批影像時說：NASA 的 DART 證明我們可以改變小行星的軌道，Hera 正在揭示小行星本身發生了什麼；把兩次任務合在一起，才是把偏轉做成可依賴工具的一步。ESA 總幹事 Josef Aschbacher 也強調：這是國際合作，ESA 正在提供理解「這次偏轉如何起作用」所需的詳細科學調查，日本宇宙航空研究開發機構（JAXA）亦有貢獻。Space Safety 項目負責人 Holger Krag 說，Hera 幫助我們理解故意撞擊一顆小行星的後果。新聞稿結尾寫：人類首次小行星偏轉實驗正進入最能說明問題的階段——不僅要知道這套方法有效，還要知道為什麼有效，以及在什麼條件下可以依賴它。可轉移的一點，源文本自己就說得很克制：改變軌道，並不等於理解你打中的那個物體；動能撞擊要成為行星防禦工具，必須查看撞擊之後那團凌亂的現場，而不能只慶祝那 33 分鐘。"
+        },
+        {
+          "type": "action",
+          "title": "今日行動",
+          "body": "若你追蹤這則發現，在筆記裏把三個長度分開寫清：Dimorphos 直徑約 151 公尺，Didymos 直徑約 730 公尺，兩者平均相距約 1 公里；再記下 Hera 同時看到的三件事（橫跨整面的運動場級撞擊坑、其餘區域巨石分布幾乎未變、劇烈翻滾並伴有新發現的圍飛巨石）。不要把「軌道短了 33 分鐘」寫成已經可以把動能撞擊當成成熟防禦工具的結論。"
+        },
+        {
+          "type": "question",
+          "title": "問你",
+          "body": "你最近慶祝過的某個「已經奏效」的結果，有沒有停下來問：被改變的那個對象，本身後來變成了什麼樣子？"
+        }
+      ],
+      "source": {
+        "label": "ESA，〈Hera reveals stadium-sized asteroid crater from spacecraft impact〉（2026-11-25）",
+        "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+      },
+      "related": [
+        "2026-11-25-cassiopeia-a-dust",
+        "2026-11-27-prayed-for-complain"
+      ]
+    },
+    {
       "id": "2026-11-26-eight-billion-wishmakers",
       "date": "2026-11-26",
       "title": "八十億個許願者",
